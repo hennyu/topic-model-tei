@@ -157,6 +157,11 @@
                 </keywords>
             </textClass>
         </profileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="tm" matchPattern="\#(t\d+)" replacementPattern="tm-taxonomy#$1"></prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
     </teiHeader>
     <text xml:base="tei-taxonomy.xml">
         <body>
@@ -166,39 +171,39 @@
                     <dateline>Meiningen den 22<hi rendition="#sup"><hi rendition="#uu"
                                 hand="#author" cert="high">n</hi></hi> Jan. 1805.</dateline>
                 </opener>
-                <p>Lieber <w norm="bruder" ana="#t38">Bruder</w>! Da du <w norm="wahrscheinlich"
-                        ana="#t52">wahrscheinlich</w> mit dem <persName key="JP-002617"><w
-                            norm="hofrat" ana="#t52">Hofrath</w>
-                        <w norm="markus" ana="#t38">Markus</w></persName> in <placeName
-                        key="JP-005561"><w norm="bamberg" ana="#t33">Bamberg</w></placeName>
-                    <w norm="genauer" ana="#t52">genauer</w> bekannt bist, so <w norm="bitte"
-                        ana="#t33">bitte</w> ich Dich, ihm <seg type="comment"><orig>die <w
-                                norm="anliegende" ana="#t38">anliegende</w>
-                            <w norm="geschichte" ana="#t52">Geschichte</w> meiner <w
-                                norm="krankheit" ana="#t7">Krankheit</w></orig><note
+                <p>Lieber <w norm="bruder" ana="tm:t38">Bruder</w>! Da du <w norm="wahrscheinlich"
+                        ana="tm:t52">wahrscheinlich</w> mit dem <persName key="JP-002617"><w
+                            norm="hofrat" ana="tm:t52">Hofrath</w>
+                        <w norm="markus" ana="tm:t38">Markus</w></persName> in <placeName
+                        key="JP-005561"><w norm="bamberg" ana="tm:t33">Bamberg</w></placeName>
+                    <w norm="genauer" ana="tm:t52">genauer</w> bekannt bist, so <w norm="bitte"
+                        ana="tm:t33">bitte</w> ich Dich, ihm <seg type="comment"><orig>die <w
+                                norm="anliegende" ana="tm:t38">anliegende</w>
+                            <w norm="geschichte" ana="tm:t52">Geschichte</w> meiner <w
+                                norm="krankheit" ana="tm:t7">Krankheit</w></orig><note
                             xml:id="ny5j_45p_npb">Nicht überliefert.</note></seg> zu <w
-                        norm="senden" ana="#t52">senden</w>, und seinen <w norm="rat" ana="#t52"
-                        >Rath</w> für mich zu <w norm="erbitten" ana="#t11">erbitten</w>, den ich
-                    ihm gern <w norm="bezahlen" ana="#t52">bezahlen</w> will. <w norm="weißt"
-                        ana="#t16">Weisst</w> und kannst du etwa gar den <w norm="zettel" ana="#t16"
+                        norm="senden" ana="tm:t52">senden</w>, und seinen <w norm="rat" ana="tm:t52"
+                        >Rath</w> für mich zu <w norm="erbitten" ana="tm:t11">erbitten</w>, den ich
+                    ihm gern <w norm="bezahlen" ana="tm:t52">bezahlen</w> will. <w norm="weißt"
+                        ana="tm:t16">Weisst</w> und kannst du etwa gar den <w norm="zettel" ana="tm:t16"
                         >Zettel</w> 
-                    <w norm="abschreiben" ana="#t52">abschreiben</w>
-                    <w norm="lassen" ana="#t52">lassen</w> und noch einem andren <w norm="mitteilen"
-                        ana="#t33">mittheilen</w>, so soll es mir von <w norm="herzen" ana="#t38"
+                    <w norm="abschreiben" ana="tm:t52">abschreiben</w>
+                    <w norm="lassen" ana="tm:t52">lassen</w> und noch einem andren <w norm="mitteilen"
+                        ana="tm:t33">mittheilen</w>, so soll es mir von <w norm="herzen" ana="tm:t38"
                         >Herzen</w>
-                    <w norm="lieb" ana="#t33">lieb</w> seyn. Denn ich möchte doch so <w norm="gerne"
-                        ana="#t33">gerne</w>
-                    <w norm="geheilt" ana="#t52">geheilt</w> seyn! Vielleicht <w norm="trifft"
-                        ana="#t33">trifft</w> Einer das <w norm="kräutchen" ana="#t11"
-                    >Kräutchen</w>; welches – wie ich <w norm="fest" ana="#t7">fest</w>
-                    <w norm="glaube" ana="#t52">glaube</w> – <w norm="gott" ana="#t7">Gott</w>
-                    <w norm="gewiß" ana="#t52">gewiß</w> auch für mein <w norm="übel" ana="#t52"
-                        >Übel</w> hat <w norm="wachsen" ana="#t11">wachsen</w>
-                    <w norm="lassen" ana="#t52">lassen</w>.<space unit="section"/>Je <w
-                        norm="bälder" ana="#t11">bälder</w> du übrigens meine <w norm="bitte"
-                        ana="#t38">Bitte</w>
-                    <w norm="erfüllst" ana="#t16">erfüllst</w>, je besser.</p>
-                <p>Ich <w norm="befinde" ana="#t38">befinde</w> mich seit zwey Tagen durch die
+                    <w norm="lieb" ana="tm:t33">lieb</w> seyn. Denn ich möchte doch so <w norm="gerne"
+                        ana="tm:t33">gerne</w>
+                    <w norm="geheilt" ana="tm:t52">geheilt</w> seyn! Vielleicht <w norm="trifft"
+                        ana="tm:t33">trifft</w> Einer das <w norm="kräutchen" ana="tm:t11"
+                    >Kräutchen</w>; welches – wie ich <w norm="fest" ana="tm:t7">fest</w>
+                    <w norm="glaube" ana="tm:t52">glaube</w> – <w norm="gott" ana="tm:t7">Gott</w>
+                    <w norm="gewiß" ana="tm:t52">gewiß</w> auch für mein <w norm="übel" ana="tm:t52"
+                        >Übel</w> hat <w norm="wachsen" ana="tm:t11">wachsen</w>
+                    <w norm="lassen" ana="tm:t52">lassen</w>.<space unit="section"/>Je <w
+                        norm="bälder" ana="tm:t11">bälder</w> du übrigens meine <w norm="bitte"
+                        ana="tm:t38">Bitte</w>
+                    <w norm="erfüllst" ana="tm:t16">erfüllst</w>, je besser.</p>
+                <p>Ich <w norm="befinde" ana="tm:t38">befinde</w> mich seit zwey Tagen durch die
                     letztbeschriebene Arzney des <persName key="JP-003149">Panzerbieters</persName>
                     sehr merklich erleichtert. Doch nimmt mir die <seg type="comment"
                             ><orig>Beladonna</orig><note xml:id="nlbk_jfl_ynb">Atropa belladonna,
