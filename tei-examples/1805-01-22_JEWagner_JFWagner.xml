@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter"
+    xml:id="JP-UB0850" type="context">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Johann Ernst Wagner an Johann Friedrich Wagner. Meiningen, 22. Januar
+                    1805, Dienstag</title>
+                <respStmt ref="http://d-nb.info/gnd/1155558472">
+                    <persName><surname>Jahnke</surname><forename>Selma</forename></persName>
+                    <resp><note type="remarkResponsibility">Editorin</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"
+                            ><surname>Neuber</surname><forename>Frederike</forename></persName>
+                    <resp><note type="remarkResponsibility">Digitale Konzeption und
+                            Modellierung</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName><surname>Rölcke</surname><forename>Michael</forename></persName>
+                    <resp><note type="remarkResponsibility">Editor</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName><surname>Thielert</surname><forename>Pauline</forename></persName>
+                    <resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                    Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In:
+                    Jean Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                    Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer,
+                    Norbert Miller und Frederike Neuber (2018–).</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><email>telota@bbaw.de</email><orgName>TELOTA - The Electronic Life Of The
+                        Academy</orgName><orgName>Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName><address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address></publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020 ff.</date>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <msDesc rend="manuscript" type="baseText">
+                            <msIdentifier>
+                                <institution>Staats- u. Universitätsbibl. Hamburg</institution>
+                                <collection>Campesche Slg.</collection>
+                                <idno>
+                                    <idno type="shelfmark">CS 4: Wagner E: 1-2</idno>
+                                </idno>
+                            </msIdentifier>
+                            <physDesc>
+                                <p>1 Bl., ½ S. S. 2 Adr.: </p>
+                                <p>An | Herrn Amtmann <hi rendition="#aq"><hi rendition="#u"
+                                            >Wagner</hi></hi> | Wohlgeboren | in <hi rendition="#u"
+                                        >Lahm</hi> | <hi rendition="#u">bei Gleussen</hi>. | <hi
+                                        rendition="#u">Postfrey</hi>. Stempel: <hi rendition="#aq"
+                                        >MEINUNGEN</hi></p>
+                                <accMat>Beschreibung der eigenen Krankheitsgeschichte (nicht
+                                    überliefert) zur Weitergabe an den Bamberger Mediziner Adalbert
+                                    Friedrich Marcus</accMat>
+                            </physDesc>
+                        </msDesc>
+                    </witness>
+                </listWit>
+                <p/>
+            </sourceDesc>
+
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="JP-004556">Johann Ernst Wagner</persName>
+                    <placeName key="JP-006012">Meiningen (Meinungen)</placeName>
+                    <date when="1805-01-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="JP-013224">Johann Friedrich Wagner</persName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+            <textClass>
+                <keywords scheme="#correspondents">
+                    <term corresp="#JP-013032">Johann Ernst Wagner-Kreis</term>
+                </keywords>
+                <keywords scheme="#topics">
+                    <term corresp="#JP-012486">Krankheit bzw. Gesundheitszustand</term>
+                </keywords>
+                <keywords scheme="tm-taxonomy.xml">
+                    <term ana="#t0" n="1.63068845973538E-4"/>
+                    <term ana="#t1" n="0.0013127665061215155"/>
+                    <term ana="#t2" n="1.4825513075500822E-4"/>
+                    <term ana="#t3" n="1.4090243657107724E-4"/>
+                    <term ana="#t4" n="2.8236182304419786E-4"/>
+                    <term ana="#t5" n="8.452734670032378E-4"/>
+                    <term ana="#t6" n="5.462086583788364E-4"/>
+                    <term ana="#t7" n="0.05594913405061167"/>
+                    <term ana="#t8" n="6.202823710554122E-5"/>
+                    <term ana="#t9" n="7.361887201515337E-4"/>
+                    <term ana="#t10" n="1.4784145640268768E-4"/>
+                    <term ana="#t11" n="0.09957621047922517"/>
+                    <term ana="#t12" n="1.2149700068741403E-4"/>
+                    <term ana="#t13" n="1.1556123085583408E-4"/>
+                    <term ana="#t14" n="1.799420732289036E-4"/>
+                    <term ana="#t15" n="1.4681555335876E-4"/>
+                    <term ana="#t16" n="0.1018589292690785"/>
+                    <term ana="#t17" n="4.1197320012557756E-4"/>
+                    <term ana="#t18" n="1.8441612360207442E-4"/>
+                    <term ana="#t19" n="3.628244460202122E-4"/>
+                    <term ana="#t20" n="1.2101616638323027E-4"/>
+                    <term ana="#t21" n="1.0628869318646096E-4"/>
+                    <term ana="#t22" n="3.07625275138875E-4"/>
+                    <term ana="#t23" n="0.0023605642239882788"/>
+                    <term ana="#t24" n="0.001192957202243837"/>
+                    <term ana="#t25" n="2.791479621530279E-4"/>
+                    <term ana="#t26" n="9.772392695968212E-5"/>
+                    <term ana="#t27" n="1.515940134517353E-4"/>
+                    <term ana="#t28" n="1.5629934344700037E-4"/>
+                    <term ana="#t29" n="2.6289212057480093E-4"/>
+                    <term ana="#t30" n="4.564775239793831E-4"/>
+                    <term ana="#t31" n="1.0397367047013329E-4"/>
+                    <term ana="#t32" n="1.2101826223447594E-4"/>
+                    <term ana="#t33" n="0.17933414332872896"/>
+                    <term ana="#t34" n="1.0214584906376048E-4"/>
+                    <term ana="#t35" n="2.1766144420962486E-4"/>
+                    <term ana="#t36" n="5.361277176672472E-4"/>
+                    <term ana="#t37" n="1.813047571332016E-4"/>
+                    <term ana="#t38" n="0.23356302259691197"/>
+                    <term ana="#t39" n="2.293504444362521E-4"/>
+                    <term ana="#t40" n="3.39137878095559E-4"/>
+                    <term ana="#t41" n="1.2560119219036102E-4"/>
+                    <term ana="#t42" n="3.264814386579444E-4"/>
+                    <term ana="#t43" n="4.1357247379873934E-5"/>
+                    <term ana="#t44" n="3.229314197142573E-4"/>
+                    <term ana="#t45" n="1.3188938247639438E-4"/>
+                    <term ana="#t46" n="1.9778077129296485E-4"/>
+                    <term ana="#t47" n="1.63049230785603E-4"/>
+                    <term ana="#t48" n="8.102274770496956E-4"/>
+                    <term ana="#t49" n="1.7854071691435794E-4"/>
+                    <term ana="#t50" n="2.519144336112797E-4"/>
+                    <term ana="#t51" n="1.6129650063147327E-4"/>
+                    <term ana="#t52" n="0.3123286459232722"/>
+                    <term ana="#t53" n="1.7982904606166336E-4"/>
+                    <term ana="#t54" n="4.3082280681565045E-4"/>
+                    <term ana="#t55" n="1.4325932665388834E-4"/>
+                    <term ana="#t56" n="1.6276226110581627E-4"/>
+                    <term ana="#t57" n="2.20415085396811E-4"/>
+                    <term ana="#t58" n="1.516354041127418E-4"/>
+                    <term ana="#t59" n="1.5888922711826766E-4"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text xml:base="tei-taxonomy.xml">
+        <body>
+            <div type="writingSession" xml:id="Schreibakt_1">
+                <pb n="1"/>
+                <opener>
+                    <dateline>Meiningen den 22<hi rendition="#sup"><hi rendition="#uu"
+                                hand="#author" cert="high">n</hi></hi> Jan. 1805.</dateline>
+                </opener>
+                <p>Lieber <w norm="bruder" ana="#t38">Bruder</w>! Da du <w norm="wahrscheinlich"
+                        ana="#t52">wahrscheinlich</w> mit dem <persName key="JP-002617"><w
+                            norm="hofrat" ana="#t52">Hofrath</w>
+                        <w norm="markus" ana="#t38">Markus</w></persName> in <placeName
+                        key="JP-005561"><w norm="bamberg" ana="#t33">Bamberg</w></placeName>
+                    <w norm="genauer" ana="#t52">genauer</w> bekannt bist, so <w norm="bitte"
+                        ana="#t33">bitte</w> ich Dich, ihm <seg type="comment"><orig>die <w
+                                norm="anliegende" ana="#t38">anliegende</w>
+                            <w norm="geschichte" ana="#t52">Geschichte</w> meiner <w
+                                norm="krankheit" ana="#t7">Krankheit</w></orig><note
+                            xml:id="ny5j_45p_npb">Nicht überliefert.</note></seg> zu <w
+                        norm="senden" ana="#t52">senden</w>, und seinen <w norm="rat" ana="#t52"
+                        >Rath</w> für mich zu <w norm="erbitten" ana="#t11">erbitten</w>, den ich
+                    ihm gern <w norm="bezahlen" ana="#t52">bezahlen</w> will. <w norm="weißt"
+                        ana="#t16">Weisst</w> und kannst du etwa gar den <w norm="zettel" ana="#t16"
+                        >Zettel</w> 
+                    <w norm="abschreiben" ana="#t52">abschreiben</w>
+                    <w norm="lassen" ana="#t52">lassen</w> und noch einem andren <w norm="mitteilen"
+                        ana="#t33">mittheilen</w>, so soll es mir von <w norm="herzen" ana="#t38"
+                        >Herzen</w>
+                    <w norm="lieb" ana="#t33">lieb</w> seyn. Denn ich möchte doch so <w norm="gerne"
+                        ana="#t33">gerne</w>
+                    <w norm="geheilt" ana="#t52">geheilt</w> seyn! Vielleicht <w norm="trifft"
+                        ana="#t33">trifft</w> Einer das <w norm="kräutchen" ana="#t11"
+                    >Kräutchen</w>; welches – wie ich <w norm="fest" ana="#t7">fest</w>
+                    <w norm="glaube" ana="#t52">glaube</w> – <w norm="gott" ana="#t7">Gott</w>
+                    <w norm="gewiß" ana="#t52">gewiß</w> auch für mein <w norm="übel" ana="#t52"
+                        >Übel</w> hat <w norm="wachsen" ana="#t11">wachsen</w>
+                    <w norm="lassen" ana="#t52">lassen</w>.<space unit="section"/>Je <w
+                        norm="bälder" ana="#t11">bälder</w> du übrigens meine <w norm="bitte"
+                        ana="#t38">Bitte</w>
+                    <w norm="erfüllst" ana="#t16">erfüllst</w>, je besser.</p>
+                <p>Ich <w norm="befinde" ana="#t38">befinde</w> mich seit zwey Tagen durch die
+                    letztbeschriebene Arzney des <persName key="JP-003149">Panzerbieters</persName>
+                    sehr merklich erleichtert. Doch nimmt mir die <seg type="comment"
+                            ><orig>Beladonna</orig><note xml:id="nlbk_jfl_ynb">Atropa belladonna,
+                            die Schwarze Tollkirsche.</note></seg> den Kopf und das ganze
+                    Nervensystem mit Schwindel pp ein Ich habe aber gute Hoffnung.</p>
+                <p>Hoffentlich ist <seg type="comment"><orig>der kleine Karl</orig><note
+                            xml:id="na3z_kfl_ynb">Wohl <persName key="JP-004564">Wagners ältester
+                                Sohn</persName>.</note></seg> glücklich bey dir angekommen?</p>
+                <closer>
+                    <signed>
+                        <hi rendition="#c">Ewig<space unit="section"/>Dein<lb/></hi>
+                        <hi rendition="#right">treuer JEWagner.</hi>
+                    </signed>
+                </closer>
+            </div>
+
+        </body>
+    </text>
+</TEI>
