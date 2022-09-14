@@ -16,8 +16,8 @@
         
     -->
 
-    <xsl:variable name="topics-with-words-file">topics-with-words_60tp-5000it-100in.csv</xsl:variable>
-    <xsl:variable name="word-weights-file">word-weights_60tp-5000it-100in_gt1.csv</xsl:variable>
+    <xsl:variable name="topics-with-words-file">../mallet-output/topics-with-words_60tp-5000it-100in.csv</xsl:variable>
+    <xsl:variable name="word-weights-file">../mallet-output/word-weights-reduced.csv</xsl:variable>
 
     <xsl:template match="/">
         <xsl:result-document href="{'tm-taxonomy.xml'}">

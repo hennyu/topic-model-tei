@@ -20,9 +20,8 @@
         
     -->
     
-    <xsl:variable name="document-path">file:/home/ulrike/Git/jp-topics/data/letters-context/ub0850.txt</xsl:variable>
-    <!-- ub0923.txt -->
-    <xsl:variable name="topics-in-texts-file">topics-in-texts_60tp-5000it-100in.csv</xsl:variable>
+    <xsl:variable name="document-path">file:/home/ulrike/Git/jp-topics/data/letters-context/ub0121.txt</xsl:variable>
+    <xsl:variable name="topics-in-texts-file">../mallet-output/topics-in-texts_60tp-5000it-100in.csv</xsl:variable>
     
     <xsl:template match="/">
         <xsl:analyze-string select="unparsed-text($topics-in-texts-file)" regex="^\d+\t([^\t]+)\t(.*)[\n|\r]" flags="m">
@@ -30,7 +29,7 @@
                 <xsl:if test="regex-group(1)=$document-path">
                     <keywords scheme="tm-taxonomy.xml">
                         <xsl:for-each select="tokenize(regex-group(2),'\t')">
-                            <term ana="#t{position() - 1}" n="{.}"/>    
+                            <term ana="#t{position() - 1}" n="{number(.)}"/>    
                         </xsl:for-each>
                     </keywords>
                 </xsl:if>

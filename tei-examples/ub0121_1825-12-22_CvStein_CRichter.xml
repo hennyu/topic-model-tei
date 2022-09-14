@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter"
+    xml:id="JP-UB0121" type="context">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Anna Christiane Charlotte von Stein zu Nord- und Ostheim an Caroline
+                    Richter. Waizenbach, 22. Dezember 1825, Donnerstag</title>
+                <respStmt ref="http://d-nb.info/gnd/1155558472">
+                    <persName><surname>Jahnke</surname><forename>Selma</forename></persName>
+                    <resp><note type="remarkResponsibility">Editorin</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"
+                            ><surname>Neuber</surname><forename>Frederike</forename></persName>
+                    <resp><note type="remarkResponsibility">Digitale Konzeption und
+                            Modellierung</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName><surname>Rölcke</surname><forename>Michael</forename></persName>
+                    <resp><note type="remarkResponsibility">Editor</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName><surname>Thielert</surname><forename>Pauline</forename></persName>
+                    <resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Briefe aus Jean Pauls Umfeld. Herausgegeben an der Berlin-Brandenburgischen
+                    Akademie der Wissenschaften von Selma Jahnke und Michael Rölcke (2020-). In:
+                    Jean Paul – Sämtliche Briefe digital. Herausgegeben im Auftrag der
+                    Berlin-Brandenburgischen Akademie der Wissenschaften von Markus Bernauer,
+                    Norbert Miller und Frederike Neuber (2018–).</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><email>telota@bbaw.de</email><orgName>TELOTA - The Electronic Life Of The
+                        Academy</orgName><orgName>Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName><address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address></publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020 ff.</date>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <msDesc rend="manuscript" type="baseText">
+                            <msIdentifier>
+                                <institution>BJK</institution>
+                                <collection>Berlin A</collection>
+                                <idno type="shelfmark"/>
+                            </msIdentifier>
+                            <physDesc>
+                                <p>1 Dbl. 8°, 3⅔ S.</p>
+                            </physDesc>
+                        </msDesc>
+                    </witness>
+                </listWit>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="JP-004139">Anna Christiane Charlotte von Stein</persName>
+                    <placeName key="JP-012587">Waizenbach (Unterfranken)</placeName>
+                    <date when="1825-12-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="JP-003469">Caroline Richter</persName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+            <textClass>
+                <keywords scheme="#correspondents">
+                    <term corresp="#JP-012320">Caroline Richter-Kreis</term>
+                </keywords>
+                <keywords scheme="#topics">
+                    <term corresp="#JP-012524">Jean Pauls Tod</term>
+                </keywords>
+                <keywords scheme="tm-taxonomy.xml">
+                    <term ana="#t0" n="0.00006062188640849108"/>
+                    <term ana="#t1" n="0.0004880293445376099"/>
+                    <term ana="#t2" n="0.0000551147930338855"/>
+                    <term ana="#t3" n="0.000052381381946356445"/>
+                    <term ana="#t4" n="0.00010496981358080826"/>
+                    <term ana="#t5" n="0.012632737865056117"/>
+                    <term ana="#t6" n="0.0002030565620667323"/>
+                    <term ana="#t7" n="0.6428838018183342"/>
+                    <term ana="#t8" n="0.00002305939384976864"/>
+                    <term ana="#t9" n="0.00027368286506106073"/>
+                    <term ana="#t10" n="0.000054961006947728056"/>
+                    <term ana="#t11" n="0.00006258694895550998"/>
+                    <term ana="#t12" n="0.00004516728704782759"/>
+                    <term ana="#t13" n="0.00004296062665032051"/>
+                    <term ana="#t14" n="0.00006689461655453881"/>
+                    <term ana="#t15" n="0.000054579620929915666"/>
+                    <term ana="#t16" n="0.000911202258365826"/>
+                    <term ana="#t17" n="0.0001531536719491354"/>
+                    <term ana="#t18" n="0.09861657425494735"/>
+                    <term ana="#t19" n="0.00013488230827628635"/>
+                    <term ana="#t20" n="0.00004498853382003898"/>
+                    <term ana="#t21" n="0.00003951350146858954"/>
+                    <term ana="#t22" n="0.00011436166347112026"/>
+                    <term ana="#t23" n="0.0008775548474157177"/>
+                    <term ana="#t24" n="0.0004434894695725805"/>
+                    <term ana="#t25" n="0.00010377504024005124"/>
+                    <term ana="#t26" n="0.0000363294948472431"/>
+                    <term ana="#t27" n="0.00005635604403044379"/>
+                    <term ana="#t28" n="0.00005810528054943967"/>
+                    <term ana="#t29" n="0.00009773182716801159"/>
+                    <term ana="#t30" n="0.00016969843897219938"/>
+                    <term ana="#t31" n="0.00003865287696791045"/>
+                    <term ana="#t32" n="0.000044989312966143716"/>
+                    <term ana="#t33" n="0.17137588213149166"/>
+                    <term ana="#t34" n="0.00003797337267013598"/>
+                    <term ana="#t35" n="0.00008091703395340898"/>
+                    <term ana="#t36" n="0.00019930890788386117"/>
+                    <term ana="#t37" n="0.00006740120301109863"/>
+                    <term ana="#t38" n="0.0005990330846441033"/>
+                    <term ana="#t39" n="0.00008526249454544882"/>
+                    <term ana="#t40" n="0.00012607667516125005"/>
+                    <term ana="#t41" n="0.00004669304648768234"/>
+                    <term ana="#t42" n="0.00012137156285520278"/>
+                    <term ana="#t43" n="0.000015374821216539617"/>
+                    <term ana="#t44" n="0.00012005182060850097"/>
+                    <term ana="#t45" n="0.00004903072144306132"/>
+                    <term ana="#t46" n="0.000073526266648453"/>
+                    <term ana="#t47" n="0.00006061459433692598"/>
+                    <term ana="#t48" n="0.0003012072464578274"/>
+                    <term ana="#t49" n="0.00006637365338213743"/>
+                    <term ana="#t50" n="0.00009365080183078349"/>
+                    <term ana="#t51" n="0.00005996300569242406"/>
+                    <term ana="#t52" n="0.06683616345016946"/>
+                    <term ana="#t53" n="0.00006685259798224437"/>
+                    <term ana="#t54" n="0.00016016113379010383"/>
+                    <term ana="#t55" n="0.00005325757090829132"/>
+                    <term ana="#t56" n="0.000060507911523131276"/>
+                    <term ana="#t57" n="0.0000819407176758438"/>
+                    <term ana="#t58" n="0.000056371431273389735"/>
+                    <term ana="#t59" n="0.00005906808636800938"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="tm" matchPattern="(t\d+)" replacementPattern="tm-taxonomy.xml#$1"
+                />
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession" xml:id="Schreibakt_1">
+                <pb n="1"/>
+                <opener>
+                    <dateline>Waizenbach den 22/12 25</dateline>
+                </opener>
+                <p><seg type="comment"><orig>Ich <w norm="wage" ana="tm:7">wage</w> es kaum mich in
+                            den <w norm="augenblicken" ana="tm:7">Augenblicken</w> der <w
+                                norm="feierlichen" ana="tm:7">feyerlichen</w>
+                            <w norm="wehmut" ana="tm:7">Wehmuth</w> Ihnen zu <w norm="nahen"
+                                ana="tm:7">nahen</w>, meine <w norm="teuere" ana="tm:18">Theuere</w>
+                            <w norm="schmerzlich" ana="tm:7">schmerzlich</w>
+                            <w norm="geprüfte" ana="tm:7">geprüfte</w>
+                            <w norm="freundin" ana="tm:7">Freundin</w>.</orig><note
+                            xml:id="nw4j_sbv_mlb"><persName key="JP-999999">Jean Paul</persName> war
+                            am <date when="1825-11-14" calendar="#Gregorian">14. November
+                                1825</date> gestorben.</note></seg> Wo ist <w norm="trost"
+                        ana="tm:7">Trost</w>
+                    <w norm="hienieden" ana="tm:7">hienieden</w>, wo ein <w norm="ersatz" ana="tm:7"
+                        >Ersatz</w> nur <w norm="trennung" ana="tm:7">Trennung</w> und <w
+                        norm="entbehren" ana="tm:33">Entbehren</w>. <w norm="arme" ana="tm:7"
+                        >Arme</w>
+                    <w norm="arme" ana="tm:7">Arme</w>
+                    <w norm="teuerste" ana="tm:33">Theuerste</w> und doch so <w norm="glückliche"
+                        ana="tm:7">Glückliche</w>! Ein solches <w norm="leben" ana="tm:7">Leben</w>
+                    <w norm="verschönt" ana="tm:18">verschönt</w>, den <w norm="letzten" ana="tm:7"
+                        >letzten</w>
+                    <w norm="kampf" ana="tm:7">Kampf</w>
+                    <w norm="versüßt" ana="tm:7">versüßt</w> zu haben. Dieses <w norm="heilige"
+                        ana="tm:7">heilige</w>
+                    <w norm="schaffen" ana="tm:52">Schaffen</w> ist die <w norm="kette" ana="tm:7"
+                        >Kette</w> die <w norm="unzerreißbar" ana="tm:18">unzerreißbar</w> mit der
+                        <w norm="geisterwelt" ana="tm:18">Geisterwelt</w> Sie <w norm="verbindet"
+                        ana="tm:7">verbindet</w> mit ihnen die nun nicht mehr <w norm="hoffen"
+                        ana="tm:7">hoffen</w> und <w norm="glauben" ana="tm:7">glauben</w> sondern
+                        <w norm="genießen" ana="tm:33">genießen</w> und <w norm="schauen" ana="tm:7"
+                        >schauen</w>; ihnen hat der <w norm="engel" ana="tm:7">Engel</w> die <w
+                        norm="dornenkrone" ana="tm:7">Dornenkrone</w> von den <w norm="wunden"
+                        ana="tm:7">Wunden</w>
+                    <w norm="gehoben" ana="tm:33">gehoben</w> – um mit <persName key="JP-999999"><w
+                            norm="unserem" ana="tm:7">unserm</w>
+                        <w norm="herrlichen" ana="tm:33">herrlichen</w>, <w norm="teuren" ana="tm:7"
+                            >theuren</w>, <w norm="unvergeßlich" ana="tm:7">Unvergeßlich</w>
+                        <w norm="unsterblichen" ana="tm:7">Unsterblichen</w></persName> zu <w
+                        norm="reden" ana="tm:33">reden</w>, Sein <w norm="hehrer" ana="tm:7"
+                        >hehrer</w>
+                    <w norm="geist" ana="tm:7">Geist</w>
+                    <w norm="wacht" ana="tm:7">wacht</w> über Sie, <w norm="umgiebt" ana="tm:33"
+                        >umgiebt</w> seine <w norm="lieben" ana="tm:7">Lieben</w> und <w norm="lebt"
+                        ana="tm:7">lebt</w> nun die <w norm="seligkeit" ana="tm:7">Seligkeit</w> in
+                        <w norm="herrlichkeit" ana="tm:7">Herrlichkeit</w>
+                    <w norm="heiligkeit" ana="tm:18">Heiligkeit</w> und <w norm="friede" ana="tm:7"
+                        >Friede</w> wie sie Ihm lange <w norm="vorschwebte" ana="tm:18"
+                        >vorschwebte</w> für die Er <w norm="vollendet" ana="tm:33">vollendet</w>
+                    war.</p>
+                <p>Halten sie vest an seinen herrlichen Ver-<pb n="2"/>mächtnißen, darin die höchste
+                    Aufmunterung zum Leben Ihnen gegeben das Er liebte und so heiligte, Sich und den
+                    Seinen u denen die Ihn liebten u. verehrten verherrlichte. Er ließ Ihnen einen
+                    schönen Beruf noch zu erfüllen, meine Freundin, der in Ihren Händen, welch
+                    herrliche Früchte tragen muß deren Reihe in die Unendlichkeit reichen
+                    werden.</p>
+                <p>Ich freue mich auf unser, wenn auch schmerzliches Wiedersehen, meine Theure
+                    Theure Richter, die Trennung von Ihnen, aus Seiner Nähe, war es mir mehr als
+                    ichs Ihnen sagen kann. denn die quälendste Ahndung: die ach leider mich nicht
+                    täuschte – daß ich Ihn nie an der Stette wieder finden werde fesselte mich an
+                    den Boden u in Ihren Armen aus denen mich loszureißen ich mit dem peinigendsten
+                    Gefühl überwandt – doch freue ich mich – Sie werden von Ihm mir erzählen, ich
+                    von Ihm hören den ich so hoch und innig verehre. Eine heilige Vergangenheit
+                    wollen wir wieder durch leben in Erinnerung und Liebe. Laßen Sie Ihre treue
+                    Freundin wieder Ihrem Herzen nahe seyn. das so oft Zuflucht <pb n="3"/>war in
+                    trüben Stunden u schmerzlichen Gefühl<supplied reason="damage" cert="high"
+                        >en.</supplied> Wir haben uns gefunden, meine Freundin u vester vereinigen
+                    uns die Prüfungen des Schicksals, das wenn es Ihnen viel gegeben auch viel
+                    genomen hat, aber um wieder zu geben nach einer Prüfung kurzer Tage u<supplied
+                        reason="damage" cert="high">ns</supplied> wieder u. ewig zu vereinigen.</p>
+                <p>Ich umarme <seg type="comment"><orig>Ihre lieben Kinder</orig><note
+                            xml:id="nfhd_gx5_mlb"><persName key="JP-003471">Emma</persName> und
+                                <persName key="JP-003491">Odilie Richter</persName>.</note></seg>,
+                    an die ich mit dem schmerzlichsten Gefühl denke, ihnen ist frühe <persName
+                        key="JP-999999">der herrliche Vater</persName> entrißen aber noch viel
+                    geblieben das ihnen Gott lange erhalten möge, Sie die <subst>
+                        <del rendition="#ow"><gap reason="illegible" unit="words" quantity="1"
+                            /></del>
+                        <add place="across">theuerste</add>
+                    </subst> beste Mutter. Meine theuerste Freundin! Ewig die</p>
+                <closer>
+                    <signed>
+                        <hi rendition="#right">Ihre<lb/>C. von <hi rendition="#aq">Stein</hi>.</hi>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

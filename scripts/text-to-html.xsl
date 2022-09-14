@@ -12,9 +12,16 @@
     
     <xsl:output method="html"/>
     
+    <xsl:variable name="taxomony-doc">../tei-examples/tm-taxonomy.xml</xsl:variable>
+    
     <xsl:variable name="colors">
         <list xmlns="http://www.tei-c.org/ns/1.0">
-            <item>#3366cc</item>
+            <item>rgba(51, 102, 204, 1)</item>
+            <item>rgba(220, 57, 18, 1)</item>
+            <item>rgba(255, 153, 0, 1)</item>
+            <item>rgba(16, 150, 24, 1)</item>
+            <item>rgba(153, 0, 153, 1)</item>
+            <!--<item>#3366cc</item>
             <item>#dc3912</item>
             <item>#ff9900</item>
             <item>#109618</item>
@@ -44,14 +51,15 @@
             <item>#668d1c</item>
             <item>#bea413</item>
             <item>#0c5922</item>
-            <item>#743411</item>
+            <item>#743411</item>-->
         </list>
     </xsl:variable>
     
     <xsl:variable name="topics">
         <list xmlns="http://www.tei-c.org/ns/1.0">
             <xsl:for-each-group select="//w" group-by="@ana">
-                <item pos="{position()}" n="{//keywords/term[@ana=current-grouping-key()]/@n}"><xsl:value-of select="current-grouping-key()"/></item>
+                <xsl:variable name="topic-pointer" select="concat('#t',substring-after(current-grouping-key(),'tm:'))"/>
+                <item pos="{position()}" n="{//keywords/term[@ana=$topic-pointer]/@n}"><xsl:value-of select="$topic-pointer"/></item>
             </xsl:for-each-group>
         </list>
     </xsl:variable>
@@ -65,12 +73,12 @@
                 <div>
                     <xsl:for-each select="$topics//item">
                         <xsl:sort select="@n" order="descending" data-type="number"/>
-                        <xsl:variable name="topic-pos" select="position()"/>
+                        <xsl:variable name="topic-pos" select="@pos"/>
                         <xsl:variable name="topic-num" select="substring-after(.,'#t')"/>
-                        <xsl:variable name="topic-prob" select="@n"/>
-                        <p>
-                            <span style="color: white; display: inline-block; width: {$topic-prob * 1000}px; height: 20px; background-color: {$colors//item[position()=$topic-pos]};"><xsl:value-of select="round($topic-prob  * 1000) div 1000"/></span>
-                            topic <xsl:value-of select="$topic-num"/>: <xsl:value-of select="doc('tm-taxonomy.xml')//category[@xml:id=concat('t',$topic-num)]/catDesc[@n='topwords']/string-join(gloss[position()=1 to 3], '-')"/>
+                        <xsl:variable name="topic-prob" select="number(@n)"/>
+                        <p style="font-weight: bold;">
+                            <span style="color: white; display: inline-block; padding: 3px; width: {$topic-prob * 1000}px; height: 20px; background-color: {$colors//item[position()=$topic-pos]};"><xsl:value-of select="round($topic-prob  * 1000) div 1000"/></span>
+                            topic <xsl:value-of select="$topic-num"/>: <xsl:value-of select="doc($taxomony-doc)//category[@xml:id=concat('t',$topic-num)]/catDesc[@n='topwords']/string-join(gloss[position()=1 to 3], '-')"/>
                         </p>
                     </xsl:for-each>
                 </div>
@@ -146,11 +154,30 @@
     </xsl:template>
     
     <xsl:template match="w">
-        <xsl:variable name="topic" select="@ana"/>
+        <xsl:variable name="topic" select="concat('#t',substring-after(@ana,'tm:'))"/>
+        <xsl:variable name="topic-num" select="substring-after(@ana,'tm:')"/>
         <xsl:variable name="topic-pos" select="$topics//item[.=$topic]/@pos"/>
-        <xsl:variable name="color" select="$colors//item[position()=$topic-pos]"/>
+        <xsl:variable name="wnorm" select="@norm"/>
+        <xsl:variable name="topiccolor" select="$colors//item[position()=$topic-pos]"/>
+        <xsl:variable name="topword" select="doc($taxomony-doc)//category[@xml:id=concat('t',$topic-num)]/catDesc[@n='topwords']/gloss[.=$wnorm]"/>
+        <xsl:variable name="opacity">
+            <xsl:choose>
+                <xsl:when test="exists($topword) and count($topword/preceding-sibling::gloss) &lt;= 9">1.0</xsl:when>
+                <xsl:when test="exists($topword) and count($topword/preceding-sibling::gloss) &lt;= 19">0.9</xsl:when>
+                <xsl:when test="exists($topword) and count($topword/preceding-sibling::gloss) &lt;= 29">0.8</xsl:when>
+                <xsl:when test="exists($topword) and count($topword/preceding-sibling::gloss) &lt;= 39">0.7</xsl:when>
+                <xsl:when test="exists($topword)">0.6</xsl:when>
+                <xsl:otherwise>0.5</xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:variable name="fontcolor">
+            <xsl:choose>
+                <xsl:when test="$opacity &lt;= number(0.6)">black</xsl:when>
+                <xsl:otherwise>white</xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
         
-        <span title="{@norm}" style="color: white; display: inline-block; background-color: {$color};">
+        <span title="{@norm}" style="display: inline-block; padding: 3px; color: {$fontcolor}; background-color: {replace($topiccolor,'1\)',concat($opacity,')'))};">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
