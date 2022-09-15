@@ -16,11 +16,11 @@ from os import rename
 # read original word weights file
 wdir = "/home/ulrike/Git/topic-model-tei/mallet-output"
 infile = "word-weights_60tp-5000it-100in.csv"
-num_topwords = 200
+num_topwords = 500
 df = pd.read_csv(join(wdir, infile), sep="\t", index_col=None, header=None)
 df_sorted = df.sort_values(by=[0, 2], ascending=False)
 df_grouped = df_sorted.groupby([0])
-df_top = df_grouped.head(50)
+df_top = df_grouped.head(num_topwords)
 
 df_top.to_csv(join(wdir, "word-weights-reduced.csv"), sep="\t", header=False, index=False)
 

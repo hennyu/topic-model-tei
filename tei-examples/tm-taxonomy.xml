@@ -9,19 +9,21 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl xml:id="corpus">Neuber, Frederike and Ulrike Henny-Krahmer. 2022. “Topic
-                            modeling the correspondence of Jean Paul’s surroundings” (v.1.0).
-                            Zenodo. https://doi.org/#####, GitHub: https://github.com/FrederikeNeuber/jeanpaul-topics.</bibl>
+            <bibl xml:id="corpus">Neuber, Frederike and Ulrike Henny-Krahmer. 2022. “Topic modeling
+               the correspondence of Jean Paul’s surroundings” (v.1.0). Zenodo.
+               https://doi.org/#####, GitHub:
+               https://github.com/FrederikeNeuber/jeanpaul-topics.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="tm0001" corresp="#corpus">
-               <desc>Topic model of the correspondence of the surroundings of Jean Paul
-                                (1156 letters), based on the edited texts with normalized ortography
-                                and prepared with Mallet (mallet-2.0.8RC3, LDA) with the following 
-                                parameters: 60 topics, 5000 iterations, hyperparameter optimization 
-                                interval of 100, 50 top words per topic.</desc>
+               <desc>Topic model of the correspondence of the surroundings 
+                  of Jean Paul (1156 letters), based on the edited texts 
+                  with normalized ortography and prepared with Mallet 
+                  (mallet-2.0.8RC3, LDA) with the following parameters: 
+                  60 topics, 5000 iterations, hyperparameter optimization 
+                  interval of 100, 50 top words per topic.</desc>
                <category xml:id="t0">
                   <catDesc n="label"><!--manual editing--></catDesc>
                   <catDesc n="alpha">0.00984</catDesc>
@@ -48,23 +50,23 @@
                      <gloss n="3.030725208559798">begegnet</gloss>
                      <gloss n="3.030725208559798">schwiegersohn</gloss>
                      <gloss n="3.030725208559798">roten</gloss>
-                     <gloss n="">ordens</gloss>
-                     <gloss n="">geheimrätin</gloss>
-                     <gloss n="">kanzlers</gloss>
-                     <gloss n="">cab</gloss>
-                     <gloss n="">fürsprecherin</gloss>
-                     <gloss n="">bisheriges</gloss>
-                     <gloss n="">erweisen</gloss>
-                     <gloss n="">sekr</gloss>
-                     <gloss n="">außerungen</gloss>
-                     <gloss n="">wundert</gloss>
-                     <gloss n="">staats</gloss>
-                     <gloss n="">helenes</gloss>
-                     <gloss n="">sehnst</gloss>
-                     <gloss n="">zugetragen</gloss>
-                     <gloss n="">zahlreichen</gloss>
-                     <gloss n="">unbekannt</gloss>
-                     <gloss n="">natürlichkeit</gloss>
+                     <gloss n="2.030725208559798">ordens</gloss>
+                     <gloss n="2.030725208559798">geheimrätin</gloss>
+                     <gloss n="2.030725208559798">kanzlers</gloss>
+                     <gloss n="2.030725208559798">cab</gloss>
+                     <gloss n="2.030725208559798">fürsprecherin</gloss>
+                     <gloss n="2.030725208559798">bisheriges</gloss>
+                     <gloss n="2.030725208559798">erweisen</gloss>
+                     <gloss n="2.030725208559798">sekr</gloss>
+                     <gloss n="2.030725208559798">außerungen</gloss>
+                     <gloss n="2.030725208559798">wundert</gloss>
+                     <gloss n="2.030725208559798">staats</gloss>
+                     <gloss n="2.030725208559798">helenes</gloss>
+                     <gloss n="2.030725208559798">sehnst</gloss>
+                     <gloss n="2.030725208559798">zugetragen</gloss>
+                     <gloss n="2.030725208559798">zahlreichen</gloss>
+                     <gloss n="2.030725208559798">unbekannt</gloss>
+                     <gloss n="2.030725208559798">natürlichkeit</gloss>
                      <gloss n="2.030725208559798">behauptung</gloss>
                      <gloss n="2.030725208559798">unverzeihlich</gloss>
                      <gloss n="2.030725208559798">schnupfen</gloss>
@@ -131,7 +133,7 @@
                      <gloss n="22.0307252085598">juli</gloss>
                      <gloss n="22.0307252085598">richtärschen</gloss>
                      <gloss n="22.0307252085598">einnahme</gloss>
-                     <gloss n="">teilnahme</gloss>
+                     <gloss n="21.0307252085598">teilnahme</gloss>
                   </catDesc>
                </category>
                <category xml:id="t2">
@@ -167,27 +169,27 @@
                      <gloss n="3.030725208559798">verhältnisse</gloss>
                      <gloss n="3.030725208559798">frage</gloss>
                      <gloss n="3.030725208559798">bändchen</gloss>
-                     <gloss n="">teppich</gloss>
-                     <gloss n="">missbrauch</gloss>
-                     <gloss n="">bezeigens</gloss>
-                     <gloss n="">oppositionsblattes</gloss>
-                     <gloss n="">bezahlten</gloss>
-                     <gloss n="">überfahrt</gloss>
-                     <gloss n="">seekaperei</gloss>
-                     <gloss n="">abstellung</gloss>
-                     <gloss n="">kaperrecht</gloss>
-                     <gloss n="">kriegs</gloss>
-                     <gloss n="">bundes-versammlung</gloss>
-                     <gloss n="">schriftchens</gloss>
-                     <gloss n="">schriftchen</gloss>
-                     <gloss n="">zurückzusenden</gloss>
-                     <gloss n="">wiener</gloss>
-                     <gloss n="">nationalbank</gloss>
-                     <gloss n="">oesterr</gloss>
-                     <gloss n="">nummer</gloss>
-                     <gloss n="">opp</gloss>
-                     <gloss n="">beiderlei</gloss>
-                     <gloss n="">überschicken</gloss>
+                     <gloss n="2.030725208559798">teppich</gloss>
+                     <gloss n="2.030725208559798">missbrauch</gloss>
+                     <gloss n="2.030725208559798">bezeigens</gloss>
+                     <gloss n="2.030725208559798">oppositionsblattes</gloss>
+                     <gloss n="2.030725208559798">bezahlten</gloss>
+                     <gloss n="2.030725208559798">überfahrt</gloss>
+                     <gloss n="2.030725208559798">seekaperei</gloss>
+                     <gloss n="2.030725208559798">abstellung</gloss>
+                     <gloss n="2.030725208559798">kaperrecht</gloss>
+                     <gloss n="2.030725208559798">kriegs</gloss>
+                     <gloss n="2.030725208559798">bundes-versammlung</gloss>
+                     <gloss n="2.030725208559798">schriftchens</gloss>
+                     <gloss n="2.030725208559798">schriftchen</gloss>
+                     <gloss n="2.030725208559798">zurückzusenden</gloss>
+                     <gloss n="2.030725208559798">wiener</gloss>
+                     <gloss n="2.030725208559798">nationalbank</gloss>
+                     <gloss n="2.030725208559798">oesterr</gloss>
+                     <gloss n="2.030725208559798">nummer</gloss>
+                     <gloss n="2.030725208559798">opp</gloss>
+                     <gloss n="2.030725208559798">beiderlei</gloss>
+                     <gloss n="2.030725208559798">überschicken</gloss>
                   </catDesc>
                </category>
                <category xml:id="t3">
@@ -216,18 +218,18 @@
                      <gloss n="3.030725208559798">küsse</gloss>
                      <gloss n="3.030725208559798">übersetzung</gloss>
                      <gloss n="3.030725208559798">art</gloss>
-                     <gloss n="">folie</gloss>
-                     <gloss n="">drucker</gloss>
-                     <gloss n="">striemen</gloss>
-                     <gloss n="">geplagten</gloss>
-                     <gloss n="">huldigungen</gloss>
-                     <gloss n="">jenseits</gloss>
-                     <gloss n="">wirtin</gloss>
-                     <gloss n="">zubereitet</gloss>
-                     <gloss n="">erfindung</gloss>
-                     <gloss n="">fürth</gloss>
-                     <gloss n="">etui</gloss>
-                     <gloss n="">herzustellen</gloss>
+                     <gloss n="2.030725208559798">folie</gloss>
+                     <gloss n="2.030725208559798">drucker</gloss>
+                     <gloss n="2.030725208559798">striemen</gloss>
+                     <gloss n="2.030725208559798">geplagten</gloss>
+                     <gloss n="2.030725208559798">huldigungen</gloss>
+                     <gloss n="2.030725208559798">jenseits</gloss>
+                     <gloss n="2.030725208559798">wirtin</gloss>
+                     <gloss n="2.030725208559798">zubereitet</gloss>
+                     <gloss n="2.030725208559798">erfindung</gloss>
+                     <gloss n="2.030725208559798">fürth</gloss>
+                     <gloss n="2.030725208559798">etui</gloss>
+                     <gloss n="2.030725208559798">herzustellen</gloss>
                      <gloss n="2.030725208559798">gegebenes</gloss>
                      <gloss n="2.030725208559798">fixlein</gloss>
                      <gloss n="2.030725208559798">vossen</gloss>
@@ -294,12 +296,12 @@
                      <gloss n="4.030725208559798">stube</gloss>
                      <gloss n="4.030725208559798">quartier</gloss>
                      <gloss n="4.030725208559798">gefühl</gloss>
-                     <gloss n="">raumer</gloss>
-                     <gloss n="">unveränderter</gloss>
-                     <gloss n="">anfall</gloss>
-                     <gloss n="">gerichtliche</gloss>
-                     <gloss n="">troschel</gloss>
-                     <gloss n="">hainchelin</gloss>
+                     <gloss n="3.030725208559798">raumer</gloss>
+                     <gloss n="3.030725208559798">unveränderter</gloss>
+                     <gloss n="3.030725208559798">anfall</gloss>
+                     <gloss n="3.030725208559798">gerichtliche</gloss>
+                     <gloss n="3.030725208559798">troschel</gloss>
+                     <gloss n="3.030725208559798">hainchelin</gloss>
                   </catDesc>
                </category>
                <category xml:id="t5">
@@ -353,9 +355,9 @@
                      <gloss n="17.030725208559797">stets</gloss>
                      <gloss n="17.030725208559797">sie_es</gloss>
                      <gloss n="17.030725208559797">welt</gloss>
-                     <gloss n="">lande</gloss>
-                     <gloss n="">em</gloss>
-                     <gloss n="">grüßt</gloss>
+                     <gloss n="16.030725208559797">lande</gloss>
+                     <gloss n="16.030725208559797">em</gloss>
+                     <gloss n="16.030725208559797">grüßt</gloss>
                   </catDesc>
                </category>
                <category xml:id="t6">
@@ -402,7 +404,7 @@
                      <gloss n="7.030725208559798">ausgabe</gloss>
                      <gloss n="7.030725208559798">geistes</gloss>
                      <gloss n="7.030725208559798">tiedge</gloss>
-                     <gloss n="">königlichen</gloss>
+                     <gloss n="6.030725208559798">königlichen</gloss>
                      <gloss n="6.030725208559798">bayern</gloss>
                      <gloss n="6.030725208559798">österreich</gloss>
                      <gloss n="6.030725208559798">gesinnung</gloss>
@@ -415,7 +417,7 @@
                   </catDesc>
                </category>
                <category xml:id="t7">
-                  <catDesc n="label"><!--manual editing--></catDesc>
+                  <catDesc n="label">love and relationships</catDesc>
                   <catDesc n="alpha">0.37694</catDesc>
                   <catDesc n="topwords">
                      <gloss n="343.0307252085598">liebe</gloss>
@@ -495,29 +497,29 @@
                      <gloss n="3.030725208559798">literatur</gloss>
                      <gloss n="3.030725208559798">buch</gloss>
                      <gloss n="3.030725208559798">las</gloss>
-                     <gloss n="">lyzeum</gloss>
-                     <gloss n="">rudolf</gloss>
-                     <gloss n="">cicero</gloss>
-                     <gloss n="">charmides</gloss>
-                     <gloss n="">plato's</gloss>
-                     <gloss n="">kunstgeschichte</gloss>
-                     <gloss n="">seminar</gloss>
-                     <gloss n="">griech</gloss>
-                     <gloss n="">historien</gloss>
-                     <gloss n="">universalgeschichte</gloss>
-                     <gloss n="">kopp</gloss>
-                     <gloss n="">geographische</gloss>
-                     <gloss n="">funktionen</gloss>
-                     <gloss n="">wochent</gloss>
-                     <gloss n="">logik</gloss>
-                     <gloss n="">meilinger</gloss>
-                     <gloss n="">wiese</gloss>
-                     <gloss n="">pferderennen</gloss>
-                     <gloss n="">horaz</gloss>
-                     <gloss n="">prometheus</gloss>
-                     <gloss n="">grieche</gloss>
-                     <gloss n="">lilla</gloss>
-                     <gloss n="">sitten</gloss>
+                     <gloss n="2.030725208559798">lyzeum</gloss>
+                     <gloss n="2.030725208559798">rudolf</gloss>
+                     <gloss n="2.030725208559798">cicero</gloss>
+                     <gloss n="2.030725208559798">charmides</gloss>
+                     <gloss n="2.030725208559798">plato's</gloss>
+                     <gloss n="2.030725208559798">kunstgeschichte</gloss>
+                     <gloss n="2.030725208559798">seminar</gloss>
+                     <gloss n="2.030725208559798">griech</gloss>
+                     <gloss n="2.030725208559798">historien</gloss>
+                     <gloss n="2.030725208559798">universalgeschichte</gloss>
+                     <gloss n="2.030725208559798">kopp</gloss>
+                     <gloss n="2.030725208559798">geographische</gloss>
+                     <gloss n="2.030725208559798">funktionen</gloss>
+                     <gloss n="2.030725208559798">wochent</gloss>
+                     <gloss n="2.030725208559798">logik</gloss>
+                     <gloss n="2.030725208559798">meilinger</gloss>
+                     <gloss n="2.030725208559798">wiese</gloss>
+                     <gloss n="2.030725208559798">pferderennen</gloss>
+                     <gloss n="2.030725208559798">horaz</gloss>
+                     <gloss n="2.030725208559798">prometheus</gloss>
+                     <gloss n="2.030725208559798">grieche</gloss>
+                     <gloss n="2.030725208559798">lilla</gloss>
+                     <gloss n="2.030725208559798">sitten</gloss>
                      <gloss n="2.030725208559798">wöchentlich</gloss>
                      <gloss n="2.030725208559798">entwurf</gloss>
                      <gloss n="2.030725208559798">eigenem</gloss>
@@ -603,13 +605,13 @@
                      <gloss n="3.030725208559798">überall</gloss>
                      <gloss n="3.030725208559798">führt</gloss>
                      <gloss n="3.030725208559798">bequemen</gloss>
-                     <gloss n="">klengel</gloss>
-                     <gloss n="">tempo</gloss>
-                     <gloss n="">balcon</gloss>
-                     <gloss n="">zurückzugeben</gloss>
-                     <gloss n="">natürlichste</gloss>
-                     <gloss n="">eitlen</gloss>
-                     <gloss n="">gemeine</gloss>
+                     <gloss n="2.030725208559798">klengel</gloss>
+                     <gloss n="2.030725208559798">tempo</gloss>
+                     <gloss n="2.030725208559798">balcon</gloss>
+                     <gloss n="2.030725208559798">zurückzugeben</gloss>
+                     <gloss n="2.030725208559798">natürlichste</gloss>
+                     <gloss n="2.030725208559798">eitlen</gloss>
+                     <gloss n="2.030725208559798">gemeine</gloss>
                      <gloss n="2.030725208559798">inne</gloss>
                      <gloss n="2.030725208559798">erschreckt</gloss>
                      <gloss n="2.030725208559798">orten</gloss>
@@ -661,17 +663,17 @@
                      <gloss n="3.030725208559798">vielmehr</gloss>
                      <gloss n="3.030725208559798">prof</gloss>
                      <gloss n="3.030725208559798">höheren</gloss>
-                     <gloss n="">sanner</gloss>
-                     <gloss n="">schmetterling</gloss>
-                     <gloss n="">silbe</gloss>
-                     <gloss n="">tieffurt</gloss>
-                     <gloss n="">schämen</gloss>
-                     <gloss n="">sorgst</gloss>
-                     <gloss n="">gütlich</gloss>
-                     <gloss n="">resp</gloss>
-                     <gloss n="">entwurf</gloss>
-                     <gloss n="">herd</gloss>
-                     <gloss n="">harmlos</gloss>
+                     <gloss n="2.030725208559798">sanner</gloss>
+                     <gloss n="2.030725208559798">schmetterling</gloss>
+                     <gloss n="2.030725208559798">silbe</gloss>
+                     <gloss n="2.030725208559798">tieffurt</gloss>
+                     <gloss n="2.030725208559798">schämen</gloss>
+                     <gloss n="2.030725208559798">sorgst</gloss>
+                     <gloss n="2.030725208559798">gütlich</gloss>
+                     <gloss n="2.030725208559798">resp</gloss>
+                     <gloss n="2.030725208559798">entwurf</gloss>
+                     <gloss n="2.030725208559798">herd</gloss>
+                     <gloss n="2.030725208559798">harmlos</gloss>
                      <gloss n="2.030725208559798">meinetwegen</gloss>
                      <gloss n="2.030725208559798">gelehrte</gloss>
                      <gloss n="2.030725208559798">innerstes</gloss>
@@ -717,11 +719,11 @@
                      <gloss n="3.030725208559798">spielen</gloss>
                      <gloss n="3.030725208559798">draußen</gloss>
                      <gloss n="3.030725208559798">gefühl</gloss>
-                     <gloss n="">würfen</gloss>
-                     <gloss n="">verdorrt</gloss>
-                     <gloss n="">trockene</gloss>
-                     <gloss n="">ausgeschlagen</gloss>
-                     <gloss n="">verzehrte</gloss>
+                     <gloss n="2.030725208559798">würfen</gloss>
+                     <gloss n="2.030725208559798">verdorrt</gloss>
+                     <gloss n="2.030725208559798">trockene</gloss>
+                     <gloss n="2.030725208559798">ausgeschlagen</gloss>
+                     <gloss n="2.030725208559798">verzehrte</gloss>
                      <gloss n="2.030725208559798">amtmann</gloss>
                      <gloss n="2.030725208559798">moor</gloss>
                      <gloss n="2.030725208559798">abgewiesen</gloss>
@@ -779,24 +781,24 @@
                      <gloss n="3.030725208559798">reichtum</gloss>
                      <gloss n="3.030725208559798">keßler</gloss>
                      <gloss n="3.030725208559798">zeither</gloss>
-                     <gloss n="">genialen</gloss>
-                     <gloss n="">nancy</gloss>
-                     <gloss n="">erkälten</gloss>
-                     <gloss n="">guckt</gloss>
-                     <gloss n="">dereinst</gloss>
-                     <gloss n="">entzündlichen</gloss>
-                     <gloss n="">aussprachen</gloss>
-                     <gloss n="">schenkelknochen</gloss>
-                     <gloss n="">vertraute</gloss>
-                     <gloss n="">beregnern</gloss>
-                     <gloss n="">antonette</gloss>
-                     <gloss n="">diktieren</gloss>
-                     <gloss n="">verwünschte</gloss>
-                     <gloss n="">lodert</gloss>
-                     <gloss n="">brennstoff</gloss>
-                     <gloss n="">denkmal</gloss>
-                     <gloss n="">sandte</gloss>
-                     <gloss n="">fantasie</gloss>
+                     <gloss n="2.030725208559798">genialen</gloss>
+                     <gloss n="2.030725208559798">nancy</gloss>
+                     <gloss n="2.030725208559798">erkälten</gloss>
+                     <gloss n="2.030725208559798">guckt</gloss>
+                     <gloss n="2.030725208559798">dereinst</gloss>
+                     <gloss n="2.030725208559798">entzündlichen</gloss>
+                     <gloss n="2.030725208559798">aussprachen</gloss>
+                     <gloss n="2.030725208559798">schenkelknochen</gloss>
+                     <gloss n="2.030725208559798">vertraute</gloss>
+                     <gloss n="2.030725208559798">beregnern</gloss>
+                     <gloss n="2.030725208559798">antonette</gloss>
+                     <gloss n="2.030725208559798">diktieren</gloss>
+                     <gloss n="2.030725208559798">verwünschte</gloss>
+                     <gloss n="2.030725208559798">lodert</gloss>
+                     <gloss n="2.030725208559798">brennstoff</gloss>
+                     <gloss n="2.030725208559798">denkmal</gloss>
+                     <gloss n="2.030725208559798">sandte</gloss>
+                     <gloss n="2.030725208559798">fantasie</gloss>
                      <gloss n="2.030725208559798">diktierte</gloss>
                      <gloss n="2.030725208559798">wund</gloss>
                      <gloss n="2.030725208559798">aufgezeichnet</gloss>
@@ -828,24 +830,24 @@
                      <gloss n="3.030725208559798">ärgerlich</gloss>
                      <gloss n="3.030725208559798">köstlicher</gloss>
                      <gloss n="3.030725208559798">allgemein</gloss>
-                     <gloss n="">zurücklegen</gloss>
-                     <gloss n="">schöpft</gloss>
-                     <gloss n="">ungesehen</gloss>
-                     <gloss n="">försters</gloss>
-                     <gloss n="">magnetisieren</gloss>
-                     <gloss n="">verbande</gloss>
-                     <gloss n="">dünne</gloss>
-                     <gloss n="">schwierig</gloss>
-                     <gloss n="">zeichnet</gloss>
-                     <gloss n="">dicke</gloss>
-                     <gloss n="">eitel</gloss>
-                     <gloss n="">groschen</gloss>
-                     <gloss n="">wachsamkeit</gloss>
-                     <gloss n="">ausgedacht</gloss>
-                     <gloss n="">beleuchtung</gloss>
-                     <gloss n="">träger</gloss>
-                     <gloss n="">gefilde</gloss>
-                     <gloss n="">beleben</gloss>
+                     <gloss n="2.030725208559798">zurücklegen</gloss>
+                     <gloss n="2.030725208559798">schöpft</gloss>
+                     <gloss n="2.030725208559798">ungesehen</gloss>
+                     <gloss n="2.030725208559798">försters</gloss>
+                     <gloss n="2.030725208559798">magnetisieren</gloss>
+                     <gloss n="2.030725208559798">verbande</gloss>
+                     <gloss n="2.030725208559798">dünne</gloss>
+                     <gloss n="2.030725208559798">schwierig</gloss>
+                     <gloss n="2.030725208559798">zeichnet</gloss>
+                     <gloss n="2.030725208559798">dicke</gloss>
+                     <gloss n="2.030725208559798">eitel</gloss>
+                     <gloss n="2.030725208559798">groschen</gloss>
+                     <gloss n="2.030725208559798">wachsamkeit</gloss>
+                     <gloss n="2.030725208559798">ausgedacht</gloss>
+                     <gloss n="2.030725208559798">beleuchtung</gloss>
+                     <gloss n="2.030725208559798">träger</gloss>
+                     <gloss n="2.030725208559798">gefilde</gloss>
+                     <gloss n="2.030725208559798">beleben</gloss>
                      <gloss n="2.030725208559798">eingebürgert</gloss>
                      <gloss n="2.030725208559798">gleichgültig</gloss>
                      <gloss n="2.030725208559798">scheren</gloss>
@@ -888,24 +890,24 @@
                      <gloss n="3.030725208559798">neu</gloss>
                      <gloss n="3.030725208559798">loge</gloss>
                      <gloss n="3.030725208559798">vereinigen</gloss>
-                     <gloss n="">lebhafteste</gloss>
-                     <gloss n="">holland</gloss>
-                     <gloss n="">veredeln</gloss>
-                     <gloss n="">übermenschlich</gloss>
-                     <gloss n="">mißbrauchen</gloss>
-                     <gloss n="">hervortreibt</gloss>
-                     <gloss n="">toms</gloss>
-                     <gloss n="">glatt</gloss>
-                     <gloss n="">gründlichen</gloss>
-                     <gloss n="">verteidiger</gloss>
-                     <gloss n="">offenbar</gloss>
-                     <gloss n="">schadloshaltung</gloss>
-                     <gloss n="">reiz</gloss>
-                     <gloss n="">bestätigen</gloss>
-                     <gloss n="">patchen</gloss>
-                     <gloss n="">bernek</gloss>
-                     <gloss n="">odiliens</gloss>
-                     <gloss n="">betten</gloss>
+                     <gloss n="2.030725208559798">lebhafteste</gloss>
+                     <gloss n="2.030725208559798">holland</gloss>
+                     <gloss n="2.030725208559798">veredeln</gloss>
+                     <gloss n="2.030725208559798">übermenschlich</gloss>
+                     <gloss n="2.030725208559798">mißbrauchen</gloss>
+                     <gloss n="2.030725208559798">hervortreibt</gloss>
+                     <gloss n="2.030725208559798">toms</gloss>
+                     <gloss n="2.030725208559798">glatt</gloss>
+                     <gloss n="2.030725208559798">gründlichen</gloss>
+                     <gloss n="2.030725208559798">verteidiger</gloss>
+                     <gloss n="2.030725208559798">offenbar</gloss>
+                     <gloss n="2.030725208559798">schadloshaltung</gloss>
+                     <gloss n="2.030725208559798">reiz</gloss>
+                     <gloss n="2.030725208559798">bestätigen</gloss>
+                     <gloss n="2.030725208559798">patchen</gloss>
+                     <gloss n="2.030725208559798">bernek</gloss>
+                     <gloss n="2.030725208559798">odiliens</gloss>
+                     <gloss n="2.030725208559798">betten</gloss>
                      <gloss n="2.030725208559798">blau</gloss>
                      <gloss n="2.030725208559798">kleidungsstücken</gloss>
                      <gloss n="2.030725208559798">beschieden</gloss>
@@ -1025,9 +1027,9 @@
                      <gloss n="6.030725208559798">romane</gloss>
                      <gloss n="6.030725208559798">hierbei</gloss>
                      <gloss n="6.030725208559798">nochmals</gloss>
-                     <gloss n="">subskription</gloss>
-                     <gloss n="">adressen</gloss>
-                     <gloss n="">omesse</gloss>
+                     <gloss n="5.030725208559798">subskription</gloss>
+                     <gloss n="5.030725208559798">adressen</gloss>
+                     <gloss n="5.030725208559798">omesse</gloss>
                   </catDesc>
                </category>
                <category xml:id="t18">
@@ -1061,23 +1063,23 @@
                      <gloss n="3.030725208559798">s.w</gloss>
                      <gloss n="3.030725208559798">charakter</gloss>
                      <gloss n="3.030725208559798">heidelberg</gloss>
-                     <gloss n="">bravo</gloss>
-                     <gloss n="">promenaden</gloss>
-                     <gloss n="">setzest</gloss>
-                     <gloss n="">gesammelter</gloss>
-                     <gloss n="">schmerzlichsten</gloss>
-                     <gloss n="">italienischen</gloss>
-                     <gloss n="">mahlzeit</gloss>
-                     <gloss n="">äolsharfe</gloss>
-                     <gloss n="">königlichen</gloss>
-                     <gloss n="">krücken</gloss>
-                     <gloss n="">fürst</gloss>
-                     <gloss n="">norden</gloss>
-                     <gloss n="">bayern</gloss>
-                     <gloss n="">geschwister</gloss>
-                     <gloss n="">wetler</gloss>
-                     <gloss n="">ausgefallen</gloss>
-                     <gloss n="">jammern</gloss>
+                     <gloss n="2.030725208559798">bravo</gloss>
+                     <gloss n="2.030725208559798">promenaden</gloss>
+                     <gloss n="2.030725208559798">setzest</gloss>
+                     <gloss n="2.030725208559798">gesammelter</gloss>
+                     <gloss n="2.030725208559798">schmerzlichsten</gloss>
+                     <gloss n="2.030725208559798">italienischen</gloss>
+                     <gloss n="2.030725208559798">mahlzeit</gloss>
+                     <gloss n="2.030725208559798">äolsharfe</gloss>
+                     <gloss n="2.030725208559798">königlichen</gloss>
+                     <gloss n="2.030725208559798">krücken</gloss>
+                     <gloss n="2.030725208559798">fürst</gloss>
+                     <gloss n="2.030725208559798">norden</gloss>
+                     <gloss n="2.030725208559798">bayern</gloss>
+                     <gloss n="2.030725208559798">geschwister</gloss>
+                     <gloss n="2.030725208559798">wetler</gloss>
+                     <gloss n="2.030725208559798">ausgefallen</gloss>
+                     <gloss n="2.030725208559798">jammern</gloss>
                      <gloss n="2.030725208559798">manns</gloss>
                      <gloss n="2.030725208559798">yelin</gloss>
                      <gloss n="2.030725208559798">einladungen</gloss>
@@ -1129,17 +1131,17 @@
                      <gloss n="4.030725208559798">sanft</gloss>
                      <gloss n="4.030725208559798">freundlich</gloss>
                      <gloss n="4.030725208559798">mensch</gloss>
-                     <gloss n="">ministerin</gloss>
-                     <gloss n="">mißfällt</gloss>
-                     <gloss n="">hänsechen</gloss>
-                     <gloss n="">erhieltest</gloss>
-                     <gloss n="">saalfeld</gloss>
-                     <gloss n="">tasche</gloss>
-                     <gloss n="">posttage</gloss>
-                     <gloss n="">unart</gloss>
-                     <gloss n="">demütig</gloss>
-                     <gloss n="">kindchen</gloss>
-                     <gloss n="">sicherer</gloss>
+                     <gloss n="3.030725208559798">ministerin</gloss>
+                     <gloss n="3.030725208559798">mißfällt</gloss>
+                     <gloss n="3.030725208559798">hänsechen</gloss>
+                     <gloss n="3.030725208559798">erhieltest</gloss>
+                     <gloss n="3.030725208559798">saalfeld</gloss>
+                     <gloss n="3.030725208559798">tasche</gloss>
+                     <gloss n="3.030725208559798">posttage</gloss>
+                     <gloss n="3.030725208559798">unart</gloss>
+                     <gloss n="3.030725208559798">demütig</gloss>
+                     <gloss n="3.030725208559798">kindchen</gloss>
+                     <gloss n="3.030725208559798">sicherer</gloss>
                   </catDesc>
                </category>
                <category xml:id="t20">
@@ -1189,13 +1191,13 @@
                      <gloss n="4.030725208559798">genießen</gloss>
                      <gloss n="4.030725208559798">weise</gloss>
                      <gloss n="4.030725208559798">zeigen</gloss>
-                     <gloss n="">pestalozzis</gloss>
-                     <gloss n="">mystizismus</gloss>
-                     <gloss n="">ausdrückt</gloss>
-                     <gloss n="">gebräuche</gloss>
-                     <gloss n="">sinnlichen</gloss>
-                     <gloss n="">endlichkeit</gloss>
-                     <gloss n="">anschauungen</gloss>
+                     <gloss n="3.030725208559798">pestalozzis</gloss>
+                     <gloss n="3.030725208559798">mystizismus</gloss>
+                     <gloss n="3.030725208559798">ausdrückt</gloss>
+                     <gloss n="3.030725208559798">gebräuche</gloss>
+                     <gloss n="3.030725208559798">sinnlichen</gloss>
+                     <gloss n="3.030725208559798">endlichkeit</gloss>
+                     <gloss n="3.030725208559798">anschauungen</gloss>
                   </catDesc>
                </category>
                <category xml:id="t21">
@@ -1296,18 +1298,18 @@
                      <gloss n="4.030725208559798">grunde</gloss>
                      <gloss n="4.030725208559798">verbindung</gloss>
                      <gloss n="4.030725208559798">fürs</gloss>
-                     <gloss n="">jeannette</gloss>
-                     <gloss n="">stattgefunden</gloss>
-                     <gloss n="">außerordentlichste</gloss>
-                     <gloss n="">sodaß</gloss>
-                     <gloss n="">pierer</gloss>
-                     <gloss n="">schmidt</gloss>
-                     <gloss n="">ludwigs</gloss>
-                     <gloss n="">kümmert</gloss>
-                     <gloss n="">gerechtigkeit</gloss>
-                     <gloss n="">herbeigeführt</gloss>
-                     <gloss n="">jammer</gloss>
-                     <gloss n="">einzuwirken</gloss>
+                     <gloss n="3.030725208559798">jeannette</gloss>
+                     <gloss n="3.030725208559798">stattgefunden</gloss>
+                     <gloss n="3.030725208559798">außerordentlichste</gloss>
+                     <gloss n="3.030725208559798">sodaß</gloss>
+                     <gloss n="3.030725208559798">pierer</gloss>
+                     <gloss n="3.030725208559798">schmidt</gloss>
+                     <gloss n="3.030725208559798">ludwigs</gloss>
+                     <gloss n="3.030725208559798">kümmert</gloss>
+                     <gloss n="3.030725208559798">gerechtigkeit</gloss>
+                     <gloss n="3.030725208559798">herbeigeführt</gloss>
+                     <gloss n="3.030725208559798">jammer</gloss>
+                     <gloss n="3.030725208559798">einzuwirken</gloss>
                   </catDesc>
                </category>
                <category xml:id="t23">
@@ -1363,7 +1365,7 @@
                      <gloss n="19.0307252085598">verzeihen</gloss>
                      <gloss n="19.0307252085598">werke</gloss>
                      <gloss n="19.0307252085598">dürfte</gloss>
-                     <gloss n="">baldige</gloss>
+                     <gloss n="18.0307252085598">baldige</gloss>
                   </catDesc>
                </category>
                <category xml:id="t24">
@@ -1460,11 +1462,11 @@
                      <gloss n="4.030725208559798">ärzte</gloss>
                      <gloss n="4.030725208559798">tausend</gloss>
                      <gloss n="4.030725208559798">vorzüglich</gloss>
-                     <gloss n="">fünften</gloss>
-                     <gloss n="">arbeiteten</gloss>
-                     <gloss n="">unaufhaltsam</gloss>
-                     <gloss n="">schrie</gloss>
-                     <gloss n="">kranke</gloss>
+                     <gloss n="3.030725208559798">fünften</gloss>
+                     <gloss n="3.030725208559798">arbeiteten</gloss>
+                     <gloss n="3.030725208559798">unaufhaltsam</gloss>
+                     <gloss n="3.030725208559798">schrie</gloss>
+                     <gloss n="3.030725208559798">kranke</gloss>
                      <gloss n="3.030725208559798">herbste</gloss>
                      <gloss n="3.030725208559798">mehreres</gloss>
                      <gloss n="3.030725208559798">saß</gloss>
@@ -1531,7 +1533,7 @@
                      <gloss n="2.030725208559798">vorbei</gloss>
                      <gloss n="2.030725208559798">dreifach</gloss>
                      <gloss n="2.030725208559798">heiteren</gloss>
-                     <gloss n="">ermahne</gloss>
+                     <gloss n="1.0307252085597984">ermahne</gloss>
                   </catDesc>
                </category>
                <category xml:id="t27">
@@ -1560,25 +1562,25 @@
                      <gloss n="3.030725208559798">angegeben</gloss>
                      <gloss n="3.030725208559798">weggehen</gloss>
                      <gloss n="3.030725208559798">bekanntlich</gloss>
-                     <gloss n="">staatslehre</gloss>
-                     <gloss n="">tatsachen</gloss>
-                     <gloss n="">languth</gloss>
-                     <gloss n="">idealisiert</gloss>
-                     <gloss n="">reale</gloss>
-                     <gloss n="">zauberlampe</gloss>
-                     <gloss n="">allzulange</gloss>
-                     <gloss n="">langweiligen</gloss>
-                     <gloss n="">genialischen</gloss>
-                     <gloss n="">verfluchte</gloss>
-                     <gloss n="">könitzen</gloss>
-                     <gloss n="">beraubt</gloss>
-                     <gloss n="">frankf</gloss>
-                     <gloss n="">bundes</gloss>
-                     <gloss n="">system</gloss>
-                     <gloss n="">lindenau</gloss>
-                     <gloss n="">seeberg</gloss>
-                     <gloss n="">luthers</gloss>
-                     <gloss n="">entsteht</gloss>
+                     <gloss n="2.030725208559798">staatslehre</gloss>
+                     <gloss n="2.030725208559798">tatsachen</gloss>
+                     <gloss n="2.030725208559798">languth</gloss>
+                     <gloss n="2.030725208559798">idealisiert</gloss>
+                     <gloss n="2.030725208559798">reale</gloss>
+                     <gloss n="2.030725208559798">zauberlampe</gloss>
+                     <gloss n="2.030725208559798">allzulange</gloss>
+                     <gloss n="2.030725208559798">langweiligen</gloss>
+                     <gloss n="2.030725208559798">genialischen</gloss>
+                     <gloss n="2.030725208559798">verfluchte</gloss>
+                     <gloss n="2.030725208559798">könitzen</gloss>
+                     <gloss n="2.030725208559798">beraubt</gloss>
+                     <gloss n="2.030725208559798">frankf</gloss>
+                     <gloss n="2.030725208559798">bundes</gloss>
+                     <gloss n="2.030725208559798">system</gloss>
+                     <gloss n="2.030725208559798">lindenau</gloss>
+                     <gloss n="2.030725208559798">seeberg</gloss>
+                     <gloss n="2.030725208559798">luthers</gloss>
+                     <gloss n="2.030725208559798">entsteht</gloss>
                      <gloss n="2.030725208559798">verteidigung</gloss>
                      <gloss n="2.030725208559798">produzieren</gloss>
                      <gloss n="2.030725208559798">auffand</gloss>
@@ -1633,17 +1635,17 @@
                      <gloss n="3.030725208559798">mitten</gloss>
                      <gloss n="3.030725208559798">setzte</gloss>
                      <gloss n="3.030725208559798">dichtung</gloss>
-                     <gloss n="">schwächlichkeit</gloss>
-                     <gloss n="">reminiszenzen</gloss>
-                     <gloss n="">erschöpfung</gloss>
-                     <gloss n="">derben</gloss>
-                     <gloss n="">nachfolger</gloss>
-                     <gloss n="">moderne</gloss>
-                     <gloss n="">schwedlein</gloss>
-                     <gloss n="">feineren</gloss>
-                     <gloss n="">gericht</gloss>
-                     <gloss n="">unterschiede</gloss>
-                     <gloss n="">anzieht</gloss>
+                     <gloss n="2.030725208559798">schwächlichkeit</gloss>
+                     <gloss n="2.030725208559798">reminiszenzen</gloss>
+                     <gloss n="2.030725208559798">erschöpfung</gloss>
+                     <gloss n="2.030725208559798">derben</gloss>
+                     <gloss n="2.030725208559798">nachfolger</gloss>
+                     <gloss n="2.030725208559798">moderne</gloss>
+                     <gloss n="2.030725208559798">schwedlein</gloss>
+                     <gloss n="2.030725208559798">feineren</gloss>
+                     <gloss n="2.030725208559798">gericht</gloss>
+                     <gloss n="2.030725208559798">unterschiede</gloss>
+                     <gloss n="2.030725208559798">anzieht</gloss>
                   </catDesc>
                </category>
                <category xml:id="t29">
@@ -1696,10 +1698,10 @@
                      <gloss n="3.030725208559798">hoheit</gloss>
                      <gloss n="3.030725208559798">band</gloss>
                      <gloss n="3.030725208559798">rührung</gloss>
-                     <gloss n="">untertänige</gloss>
-                     <gloss n="">höchstzuverehrender</gloss>
-                     <gloss n="">edelmütige</gloss>
-                     <gloss n="">unnützlich</gloss>
+                     <gloss n="2.030725208559798">untertänige</gloss>
+                     <gloss n="2.030725208559798">höchstzuverehrender</gloss>
+                     <gloss n="2.030725208559798">edelmütige</gloss>
+                     <gloss n="2.030725208559798">unnützlich</gloss>
                   </catDesc>
                </category>
                <category xml:id="t30">
@@ -1752,10 +1754,10 @@
                      <gloss n="7.030725208559798">jüngling</gloss>
                      <gloss n="7.030725208559798">erlangen</gloss>
                      <gloss n="7.030725208559798">familie</gloss>
-                     <gloss n="">heidelb</gloss>
-                     <gloss n="">forderte</gloss>
-                     <gloss n="">urteile</gloss>
-                     <gloss n="">thüngen</gloss>
+                     <gloss n="6.030725208559798">heidelb</gloss>
+                     <gloss n="6.030725208559798">forderte</gloss>
+                     <gloss n="6.030725208559798">urteile</gloss>
+                     <gloss n="6.030725208559798">thüngen</gloss>
                   </catDesc>
                </category>
                <category xml:id="t31">
@@ -1866,8 +1868,8 @@
                      <gloss n="2.030725208559798">gleichwohl</gloss>
                      <gloss n="2.030725208559798">sogar</gloss>
                      <gloss n="2.030725208559798">augenblick</gloss>
-                     <gloss n="">pomeranzenessenz</gloss>
-                     <gloss n="">manipulationen</gloss>
+                     <gloss n="1.0307252085597984">pomeranzenessenz</gloss>
+                     <gloss n="1.0307252085597984">manipulationen</gloss>
                   </catDesc>
                </category>
                <category xml:id="t33">
@@ -1961,25 +1963,25 @@
                      <gloss n="3.030725208559798">ruft</gloss>
                      <gloss n="3.030725208559798">ähnlicher</gloss>
                      <gloss n="3.030725208559798">wirt</gloss>
-                     <gloss n="">vis</gloss>
-                     <gloss n="">klingelt</gloss>
-                     <gloss n="">überdrüssig</gloss>
-                     <gloss n="">nähmen</gloss>
-                     <gloss n="">stift</gloss>
-                     <gloss n="">olymp</gloss>
-                     <gloss n="">kapitel</gloss>
-                     <gloss n="">schlürfen</gloss>
-                     <gloss n="">mundvoll</gloss>
-                     <gloss n="">freigebige</gloss>
-                     <gloss n="">krebspastete</gloss>
-                     <gloss n="">schwatzt</gloss>
-                     <gloss n="">sinken</gloss>
-                     <gloss n="">scherze</gloss>
-                     <gloss n="">merseburg</gloss>
-                     <gloss n="">weges</gloss>
-                     <gloss n="">demütig</gloss>
-                     <gloss n="">zurücklassen</gloss>
-                     <gloss n="">buchs</gloss>
+                     <gloss n="2.030725208559798">vis</gloss>
+                     <gloss n="2.030725208559798">klingelt</gloss>
+                     <gloss n="2.030725208559798">überdrüssig</gloss>
+                     <gloss n="2.030725208559798">nähmen</gloss>
+                     <gloss n="2.030725208559798">stift</gloss>
+                     <gloss n="2.030725208559798">olymp</gloss>
+                     <gloss n="2.030725208559798">kapitel</gloss>
+                     <gloss n="2.030725208559798">schlürfen</gloss>
+                     <gloss n="2.030725208559798">mundvoll</gloss>
+                     <gloss n="2.030725208559798">freigebige</gloss>
+                     <gloss n="2.030725208559798">krebspastete</gloss>
+                     <gloss n="2.030725208559798">schwatzt</gloss>
+                     <gloss n="2.030725208559798">sinken</gloss>
+                     <gloss n="2.030725208559798">scherze</gloss>
+                     <gloss n="2.030725208559798">merseburg</gloss>
+                     <gloss n="2.030725208559798">weges</gloss>
+                     <gloss n="2.030725208559798">demütig</gloss>
+                     <gloss n="2.030725208559798">zurücklassen</gloss>
+                     <gloss n="2.030725208559798">buchs</gloss>
                   </catDesc>
                </category>
                <category xml:id="t35">
@@ -2019,13 +2021,13 @@
                      <gloss n="4.030725208559798">setzen</gloss>
                      <gloss n="4.030725208559798">gedankt</gloss>
                      <gloss n="4.030725208559798">teile</gloss>
-                     <gloss n="">studierstube</gloss>
-                     <gloss n="">semmel</gloss>
-                     <gloss n="">flasche</gloss>
-                     <gloss n="">hütete</gloss>
-                     <gloss n="">kanapee</gloss>
-                     <gloss n="">hendtrich</gloss>
-                     <gloss n="">vormittag</gloss>
+                     <gloss n="3.030725208559798">studierstube</gloss>
+                     <gloss n="3.030725208559798">semmel</gloss>
+                     <gloss n="3.030725208559798">flasche</gloss>
+                     <gloss n="3.030725208559798">hütete</gloss>
+                     <gloss n="3.030725208559798">kanapee</gloss>
+                     <gloss n="3.030725208559798">hendtrich</gloss>
+                     <gloss n="3.030725208559798">vormittag</gloss>
                      <gloss n="3.030725208559798">nachts</gloss>
                      <gloss n="3.030725208559798">schleier</gloss>
                      <gloss n="3.030725208559798">schlafe</gloss>
@@ -2125,14 +2127,14 @@
                      <gloss n="4.030725208559798">ist_es</gloss>
                      <gloss n="4.030725208559798">empfange</gloss>
                      <gloss n="4.030725208559798">geistiges</gloss>
-                     <gloss n="">thieriots</gloss>
-                     <gloss n="">göttlicher</gloss>
-                     <gloss n="">ger</gloss>
-                     <gloss n="">leser</gloss>
-                     <gloss n="">weim</gloss>
-                     <gloss n="">heims</gloss>
-                     <gloss n="">hund</gloss>
-                     <gloss n="">präsident</gloss>
+                     <gloss n="3.030725208559798">thieriots</gloss>
+                     <gloss n="3.030725208559798">göttlicher</gloss>
+                     <gloss n="3.030725208559798">ger</gloss>
+                     <gloss n="3.030725208559798">leser</gloss>
+                     <gloss n="3.030725208559798">weim</gloss>
+                     <gloss n="3.030725208559798">heims</gloss>
+                     <gloss n="3.030725208559798">hund</gloss>
+                     <gloss n="3.030725208559798">präsident</gloss>
                      <gloss n="3.030725208559798">et</gloss>
                      <gloss n="3.030725208559798">bedeutet</gloss>
                      <gloss n="3.030725208559798">eimer</gloss>
@@ -2244,11 +2246,11 @@
                      <gloss n="4.030725208559798">neuem</gloss>
                      <gloss n="4.030725208559798">adieu</gloss>
                      <gloss n="4.030725208559798">freilich</gloss>
-                     <gloss n="">landschaft</gloss>
-                     <gloss n="">schonend</gloss>
-                     <gloss n="">velin</gloss>
-                     <gloss n="">gemalt</gloss>
-                     <gloss n="">hn</gloss>
+                     <gloss n="3.030725208559798">landschaft</gloss>
+                     <gloss n="3.030725208559798">schonend</gloss>
+                     <gloss n="3.030725208559798">velin</gloss>
+                     <gloss n="3.030725208559798">gemalt</gloss>
+                     <gloss n="3.030725208559798">hn</gloss>
                      <gloss n="3.030725208559798">zuge</gloss>
                      <gloss n="3.030725208559798">abgehen</gloss>
                      <gloss n="3.030725208559798">ehegestern</gloss>
@@ -2339,19 +2341,19 @@
                      <gloss n="3.030725208559798">wesens</gloss>
                      <gloss n="3.030725208559798">name</gloss>
                      <gloss n="3.030725208559798">sonne</gloss>
-                     <gloss n="">entschluss</gloss>
-                     <gloss n="">prädikate</gloss>
-                     <gloss n="">tauber</gloss>
-                     <gloss n="">schreibepult</gloss>
-                     <gloss n="">reisetage</gloss>
-                     <gloss n="">anlangt</gloss>
-                     <gloss n="">gestirn</gloss>
-                     <gloss n="">überhäuften</gloss>
-                     <gloss n="">orakel</gloss>
-                     <gloss n="">gewöhnen</gloss>
-                     <gloss n="">vorgerückt</gloss>
-                     <gloss n="">hervorgebracht</gloss>
-                     <gloss n="">für's</gloss>
+                     <gloss n="2.030725208559798">entschluss</gloss>
+                     <gloss n="2.030725208559798">prädikate</gloss>
+                     <gloss n="2.030725208559798">tauber</gloss>
+                     <gloss n="2.030725208559798">schreibepult</gloss>
+                     <gloss n="2.030725208559798">reisetage</gloss>
+                     <gloss n="2.030725208559798">anlangt</gloss>
+                     <gloss n="2.030725208559798">gestirn</gloss>
+                     <gloss n="2.030725208559798">überhäuften</gloss>
+                     <gloss n="2.030725208559798">orakel</gloss>
+                     <gloss n="2.030725208559798">gewöhnen</gloss>
+                     <gloss n="2.030725208559798">vorgerückt</gloss>
+                     <gloss n="2.030725208559798">hervorgebracht</gloss>
+                     <gloss n="2.030725208559798">für's</gloss>
                      <gloss n="2.030725208559798">sorglich</gloss>
                      <gloss n="2.030725208559798">scharfsinns</gloss>
                      <gloss n="2.030725208559798">student</gloss>
@@ -2422,12 +2424,12 @@
                      <gloss n="5.030725208559798">versteht</gloss>
                      <gloss n="5.030725208559798">rede</gloss>
                      <gloss n="5.030725208559798">teile</gloss>
-                     <gloss n="">preußische</gloss>
-                     <gloss n="">verbindlich</gloss>
-                     <gloss n="">geknüpft</gloss>
-                     <gloss n="">letzthin</gloss>
-                     <gloss n="">publ</gloss>
-                     <gloss n="">vermutlich</gloss>
+                     <gloss n="4.030725208559798">preußische</gloss>
+                     <gloss n="4.030725208559798">verbindlich</gloss>
+                     <gloss n="4.030725208559798">geknüpft</gloss>
+                     <gloss n="4.030725208559798">letzthin</gloss>
+                     <gloss n="4.030725208559798">publ</gloss>
+                     <gloss n="4.030725208559798">vermutlich</gloss>
                   </catDesc>
                </category>
                <category xml:id="t43">
@@ -2470,20 +2472,20 @@
                      <gloss n="2.030725208559798">lauter</gloss>
                      <gloss n="2.030725208559798">bürgen</gloss>
                      <gloss n="2.030725208559798">sonne</gloss>
-                     <gloss n="">aucheine</gloss>
-                     <gloss n="">ängstet</gloss>
-                     <gloss n="">nachstrebst</gloss>
-                     <gloss n="">leuchtender</gloss>
-                     <gloss n="">schnitzchen</gloss>
-                     <gloss n="">zei</gloss>
-                     <gloss n="">abschaffung</gloss>
-                     <gloss n="">ml</gloss>
-                     <gloss n="">abgegangnen</gloss>
-                     <gloss n="">geburten</gloss>
-                     <gloss n="">morgenstunden</gloss>
-                     <gloss n="">geldsack</gloss>
-                     <gloss n="">rocktasche</gloss>
-                     <gloss n="">komtesse</gloss>
+                     <gloss n="1.0307252085597984">aucheine</gloss>
+                     <gloss n="1.0307252085597984">ängstet</gloss>
+                     <gloss n="1.0307252085597984">nachstrebst</gloss>
+                     <gloss n="1.0307252085597984">leuchtender</gloss>
+                     <gloss n="1.0307252085597984">schnitzchen</gloss>
+                     <gloss n="1.0307252085597984">zei</gloss>
+                     <gloss n="1.0307252085597984">abschaffung</gloss>
+                     <gloss n="1.0307252085597984">ml</gloss>
+                     <gloss n="1.0307252085597984">abgegangnen</gloss>
+                     <gloss n="1.0307252085597984">geburten</gloss>
+                     <gloss n="1.0307252085597984">morgenstunden</gloss>
+                     <gloss n="1.0307252085597984">geldsack</gloss>
+                     <gloss n="1.0307252085597984">rocktasche</gloss>
+                     <gloss n="1.0307252085597984">komtesse</gloss>
                   </catDesc>
                </category>
                <category xml:id="t44">
@@ -2532,14 +2534,14 @@
                      <gloss n="4.030725208559798">cousine</gloss>
                      <gloss n="4.030725208559798">vorhaben</gloss>
                      <gloss n="4.030725208559798">wiedersehen</gloss>
-                     <gloss n="">damens</gloss>
-                     <gloss n="">revenuen</gloss>
-                     <gloss n="">stillleben</gloss>
-                     <gloss n="">gefangene</gloss>
-                     <gloss n="">referendar</gloss>
-                     <gloss n="">vermutung</gloss>
-                     <gloss n="">marseille</gloss>
-                     <gloss n="">versäumt</gloss>
+                     <gloss n="3.030725208559798">damens</gloss>
+                     <gloss n="3.030725208559798">revenuen</gloss>
+                     <gloss n="3.030725208559798">stillleben</gloss>
+                     <gloss n="3.030725208559798">gefangene</gloss>
+                     <gloss n="3.030725208559798">referendar</gloss>
+                     <gloss n="3.030725208559798">vermutung</gloss>
+                     <gloss n="3.030725208559798">marseille</gloss>
+                     <gloss n="3.030725208559798">versäumt</gloss>
                   </catDesc>
                </category>
                <category xml:id="t45">
@@ -2594,8 +2596,8 @@
                      <gloss n="4.030725208559798">stillen</gloss>
                      <gloss n="4.030725208559798">erhältst</gloss>
                      <gloss n="4.030725208559798">graf</gloss>
-                     <gloss n="">anschauliches</gloss>
-                     <gloss n="">sigurd</gloss>
+                     <gloss n="3.030725208559798">anschauliches</gloss>
+                     <gloss n="3.030725208559798">sigurd</gloss>
                   </catDesc>
                </category>
                <category xml:id="t46">
@@ -2646,12 +2648,12 @@
                      <gloss n="3.030725208559798">gehandelt</gloss>
                      <gloss n="3.030725208559798">hosen</gloss>
                      <gloss n="3.030725208559798">gr</gloss>
-                     <gloss n="">isidorus</gloss>
-                     <gloss n="">eßstube</gloss>
-                     <gloss n="">arbeitstube</gloss>
-                     <gloss n="">wünschtest</gloss>
-                     <gloss n="">gingan</gloss>
-                     <gloss n="">rabe</gloss>
+                     <gloss n="2.030725208559798">isidorus</gloss>
+                     <gloss n="2.030725208559798">eßstube</gloss>
+                     <gloss n="2.030725208559798">arbeitstube</gloss>
+                     <gloss n="2.030725208559798">wünschtest</gloss>
+                     <gloss n="2.030725208559798">gingan</gloss>
+                     <gloss n="2.030725208559798">rabe</gloss>
                   </catDesc>
                </category>
                <category xml:id="t47">
@@ -2680,27 +2682,27 @@
                      <gloss n="3.030725208559798">befassen</gloss>
                      <gloss n="3.030725208559798">indiskret</gloss>
                      <gloss n="3.030725208559798">einfache</gloss>
-                     <gloss n="">weichheit</gloss>
-                     <gloss n="">wecken</gloss>
-                     <gloss n="">aufzuhalten</gloss>
-                     <gloss n="">gedrängten</gloss>
-                     <gloss n="">angegriffene</gloss>
-                     <gloss n="">ängstliche</gloss>
-                     <gloss n="">protestation</gloss>
-                     <gloss n="">jurist</gloss>
-                     <gloss n="">rechtsgelehrten</gloss>
-                     <gloss n="">bedeckten</gloss>
-                     <gloss n="">bedenklichkeiten</gloss>
-                     <gloss n="">deutliches</gloss>
-                     <gloss n="">ohnmächtige</gloss>
-                     <gloss n="">geradheit</gloss>
-                     <gloss n="">anbeten</gloss>
-                     <gloss n="">versagt</gloss>
-                     <gloss n="">ehrenberg</gloss>
-                     <gloss n="">beruhigendsten</gloss>
-                     <gloss n="">nachzusuchen</gloss>
-                     <gloss n="">staatsminister</gloss>
-                     <gloss n="">edelster</gloss>
+                     <gloss n="2.030725208559798">weichheit</gloss>
+                     <gloss n="2.030725208559798">wecken</gloss>
+                     <gloss n="2.030725208559798">aufzuhalten</gloss>
+                     <gloss n="2.030725208559798">gedrängten</gloss>
+                     <gloss n="2.030725208559798">angegriffene</gloss>
+                     <gloss n="2.030725208559798">ängstliche</gloss>
+                     <gloss n="2.030725208559798">protestation</gloss>
+                     <gloss n="2.030725208559798">jurist</gloss>
+                     <gloss n="2.030725208559798">rechtsgelehrten</gloss>
+                     <gloss n="2.030725208559798">bedeckten</gloss>
+                     <gloss n="2.030725208559798">bedenklichkeiten</gloss>
+                     <gloss n="2.030725208559798">deutliches</gloss>
+                     <gloss n="2.030725208559798">ohnmächtige</gloss>
+                     <gloss n="2.030725208559798">geradheit</gloss>
+                     <gloss n="2.030725208559798">anbeten</gloss>
+                     <gloss n="2.030725208559798">versagt</gloss>
+                     <gloss n="2.030725208559798">ehrenberg</gloss>
+                     <gloss n="2.030725208559798">beruhigendsten</gloss>
+                     <gloss n="2.030725208559798">nachzusuchen</gloss>
+                     <gloss n="2.030725208559798">staatsminister</gloss>
+                     <gloss n="2.030725208559798">edelster</gloss>
                      <gloss n="2.030725208559798">wichtigeren</gloss>
                      <gloss n="2.030725208559798">berje</gloss>
                      <gloss n="2.030725208559798">akten</gloss>
@@ -2763,7 +2765,7 @@
                      <gloss n="14.0307252085598">zeit</gloss>
                      <gloss n="14.0307252085598">augenblicke</gloss>
                      <gloss n="14.0307252085598">heim</gloss>
-                     <gloss n="">bayreuther</gloss>
+                     <gloss n="13.0307252085598">bayreuther</gloss>
                   </catDesc>
                </category>
                <category xml:id="t49">
@@ -2788,16 +2790,16 @@
                      <gloss n="3.030725208559798">freundlichen</gloss>
                      <gloss n="3.030725208559798">schlechte</gloss>
                      <gloss n="3.030725208559798">letzteren</gloss>
-                     <gloss n="">nymphe</gloss>
-                     <gloss n="">eilfertig</gloss>
-                     <gloss n="">dache</gloss>
-                     <gloss n="">passow</gloss>
-                     <gloss n="">streuen</gloss>
-                     <gloss n="">effronterie</gloss>
-                     <gloss n="">akt</gloss>
-                     <gloss n="">geübten</gloss>
-                     <gloss n="">juristischen</gloss>
-                     <gloss n="">diamant</gloss>
+                     <gloss n="2.030725208559798">nymphe</gloss>
+                     <gloss n="2.030725208559798">eilfertig</gloss>
+                     <gloss n="2.030725208559798">dache</gloss>
+                     <gloss n="2.030725208559798">passow</gloss>
+                     <gloss n="2.030725208559798">streuen</gloss>
+                     <gloss n="2.030725208559798">effronterie</gloss>
+                     <gloss n="2.030725208559798">akt</gloss>
+                     <gloss n="2.030725208559798">geübten</gloss>
+                     <gloss n="2.030725208559798">juristischen</gloss>
+                     <gloss n="2.030725208559798">diamant</gloss>
                      <gloss n="2.030725208559798">gültig</gloss>
                      <gloss n="2.030725208559798">ehen</gloss>
                      <gloss n="2.030725208559798">brette</gloss>
@@ -2864,17 +2866,17 @@
                      <gloss n="6.030725208559798">schriften</gloss>
                      <gloss n="6.030725208559798">wertes</gloss>
                      <gloss n="6.030725208559798">otto</gloss>
-                     <gloss n="">buchhandel</gloss>
-                     <gloss n="">böttiger</gloss>
-                     <gloss n="">joseph</gloss>
-                     <gloss n="">verlustes</gloss>
-                     <gloss n="">fibels</gloss>
-                     <gloss n="">verewigte</gloss>
-                     <gloss n="">verbindlichkeiten</gloss>
-                     <gloss n="">gewinn</gloss>
-                     <gloss n="">zutrauen</gloss>
-                     <gloss n="">verhandlungen</gloss>
-                     <gloss n="">exemplaren</gloss>
+                     <gloss n="5.030725208559798">buchhandel</gloss>
+                     <gloss n="5.030725208559798">böttiger</gloss>
+                     <gloss n="5.030725208559798">joseph</gloss>
+                     <gloss n="5.030725208559798">verlustes</gloss>
+                     <gloss n="5.030725208559798">fibels</gloss>
+                     <gloss n="5.030725208559798">verewigte</gloss>
+                     <gloss n="5.030725208559798">verbindlichkeiten</gloss>
+                     <gloss n="5.030725208559798">gewinn</gloss>
+                     <gloss n="5.030725208559798">zutrauen</gloss>
+                     <gloss n="5.030725208559798">verhandlungen</gloss>
+                     <gloss n="5.030725208559798">exemplaren</gloss>
                      <gloss n="5.030725208559798">vorhandenen</gloss>
                   </catDesc>
                </category>
@@ -2928,10 +2930,10 @@
                      <gloss n="2.030725208559798">wichtiger</gloss>
                      <gloss n="2.030725208559798">anständige</gloss>
                      <gloss n="2.030725208559798">gouvernante</gloss>
-                     <gloss n="">lockt</gloss>
-                     <gloss n="">ausschlürfen</gloss>
-                     <gloss n="">freudenbecher</gloss>
-                     <gloss n="">allumfassenden</gloss>
+                     <gloss n="1.0307252085597984">lockt</gloss>
+                     <gloss n="1.0307252085597984">ausschlürfen</gloss>
+                     <gloss n="1.0307252085597984">freudenbecher</gloss>
+                     <gloss n="1.0307252085597984">allumfassenden</gloss>
                   </catDesc>
                </category>
                <category xml:id="t52">
@@ -2987,7 +2989,7 @@
                      <gloss n="96.0307252085598">wert</gloss>
                      <gloss n="96.0307252085598">menschen</gloss>
                      <gloss n="94.0307252085598">getan</gloss>
-                     <gloss n="">bringen</gloss>
+                     <gloss n="92.0307252085598">bringen</gloss>
                   </catDesc>
                </category>
                <category xml:id="t53">
@@ -3041,9 +3043,9 @@
                      <gloss n="3.030725208559798">öffentliche</gloss>
                      <gloss n="3.030725208559798">einwirken</gloss>
                      <gloss n="3.030725208559798">freund</gloss>
-                     <gloss n="">schwert</gloss>
-                     <gloss n="">unglücksseher</gloss>
-                     <gloss n="">geschwätz</gloss>
+                     <gloss n="2.030725208559798">schwert</gloss>
+                     <gloss n="2.030725208559798">unglücksseher</gloss>
+                     <gloss n="2.030725208559798">geschwätz</gloss>
                   </catDesc>
                </category>
                <category xml:id="t54">
@@ -3096,10 +3098,10 @@
                      <gloss n="7.030725208559798">kälte</gloss>
                      <gloss n="7.030725208559798">haube</gloss>
                      <gloss n="7.030725208559798">ofen</gloss>
-                     <gloss n="">manipuleurs</gloss>
-                     <gloss n="">zucker</gloss>
-                     <gloss n="">pflaumenkuchen</gloss>
-                     <gloss n="">januar</gloss>
+                     <gloss n="6.030725208559798">manipuleurs</gloss>
+                     <gloss n="6.030725208559798">zucker</gloss>
+                     <gloss n="6.030725208559798">pflaumenkuchen</gloss>
+                     <gloss n="6.030725208559798">januar</gloss>
                   </catDesc>
                </category>
                <category xml:id="t55">
@@ -3147,15 +3149,15 @@
                      <gloss n="2.030725208559798">erlangen</gloss>
                      <gloss n="2.030725208559798">begleitet</gloss>
                      <gloss n="2.030725208559798">gelingen</gloss>
-                     <gloss n="">hinzuleben</gloss>
-                     <gloss n="">verweste</gloss>
-                     <gloss n="">wovor</gloss>
-                     <gloss n="">stellerei</gloss>
-                     <gloss n="">unterhältst</gloss>
-                     <gloss n="">zurückgenommenen</gloss>
-                     <gloss n="">brokh</gloss>
-                     <gloss n="">schuldenfreie</gloss>
-                     <gloss n="">schukmannsche</gloss>
+                     <gloss n="1.0307252085597984">hinzuleben</gloss>
+                     <gloss n="1.0307252085597984">verweste</gloss>
+                     <gloss n="1.0307252085597984">wovor</gloss>
+                     <gloss n="1.0307252085597984">stellerei</gloss>
+                     <gloss n="1.0307252085597984">unterhältst</gloss>
+                     <gloss n="1.0307252085597984">zurückgenommenen</gloss>
+                     <gloss n="1.0307252085597984">brokh</gloss>
+                     <gloss n="1.0307252085597984">schuldenfreie</gloss>
+                     <gloss n="1.0307252085597984">schukmannsche</gloss>
                   </catDesc>
                </category>
                <category xml:id="t56">
@@ -3188,30 +3190,30 @@
                      <gloss n="3.030725208559798">minuten</gloss>
                      <gloss n="3.030725208559798">aufheben</gloss>
                      <gloss n="3.030725208559798">veranlaßt</gloss>
-                     <gloss n="">eduards</gloss>
-                     <gloss n="">altensteins</gloss>
-                     <gloss n="">angehen</gloss>
-                     <gloss n="">anwandlung</gloss>
-                     <gloss n="">erbschaft</gloss>
-                     <gloss n="">rosalien</gloss>
-                     <gloss n="">zuzusichern</gloss>
-                     <gloss n="">erfordern</gloss>
-                     <gloss n="">ausgebildet</gloss>
-                     <gloss n="">berechnungen</gloss>
-                     <gloss n="">zöge</gloss>
-                     <gloss n="">anbeginn</gloss>
-                     <gloss n="">gustav</gloss>
-                     <gloss n="">mehrjähriger</gloss>
-                     <gloss n="">rufs</gloss>
-                     <gloss n="">ausgelöscht</gloss>
-                     <gloss n="">dlle</gloss>
-                     <gloss n="">reue</gloss>
-                     <gloss n="">lebenskräfte</gloss>
-                     <gloss n="">hintergrunde</gloss>
-                     <gloss n="">erheiternden</gloss>
-                     <gloss n="">feuer</gloss>
-                     <gloss n="">verluste</gloss>
-                     <gloss n="">elend</gloss>
+                     <gloss n="2.030725208559798">eduards</gloss>
+                     <gloss n="2.030725208559798">altensteins</gloss>
+                     <gloss n="2.030725208559798">angehen</gloss>
+                     <gloss n="2.030725208559798">anwandlung</gloss>
+                     <gloss n="2.030725208559798">erbschaft</gloss>
+                     <gloss n="2.030725208559798">rosalien</gloss>
+                     <gloss n="2.030725208559798">zuzusichern</gloss>
+                     <gloss n="2.030725208559798">erfordern</gloss>
+                     <gloss n="2.030725208559798">ausgebildet</gloss>
+                     <gloss n="2.030725208559798">berechnungen</gloss>
+                     <gloss n="2.030725208559798">zöge</gloss>
+                     <gloss n="2.030725208559798">anbeginn</gloss>
+                     <gloss n="2.030725208559798">gustav</gloss>
+                     <gloss n="2.030725208559798">mehrjähriger</gloss>
+                     <gloss n="2.030725208559798">rufs</gloss>
+                     <gloss n="2.030725208559798">ausgelöscht</gloss>
+                     <gloss n="2.030725208559798">dlle</gloss>
+                     <gloss n="2.030725208559798">reue</gloss>
+                     <gloss n="2.030725208559798">lebenskräfte</gloss>
+                     <gloss n="2.030725208559798">hintergrunde</gloss>
+                     <gloss n="2.030725208559798">erheiternden</gloss>
+                     <gloss n="2.030725208559798">feuer</gloss>
+                     <gloss n="2.030725208559798">verluste</gloss>
+                     <gloss n="2.030725208559798">elend</gloss>
                   </catDesc>
                </category>
                <category xml:id="t57">
@@ -3261,13 +3263,13 @@
                      <gloss n="3.030725208559798">doktor</gloss>
                      <gloss n="3.030725208559798">stadt</gloss>
                      <gloss n="3.030725208559798">unverdient</gloss>
-                     <gloss n="">oberhofmeisterin</gloss>
-                     <gloss n="">auskommst</gloss>
-                     <gloss n="">getränt</gloss>
-                     <gloss n="">herzogliche</gloss>
-                     <gloss n="">kessler</gloss>
-                     <gloss n="">unbeschreibliche</gloss>
-                     <gloss n="">weggegangen</gloss>
+                     <gloss n="2.030725208559798">oberhofmeisterin</gloss>
+                     <gloss n="2.030725208559798">auskommst</gloss>
+                     <gloss n="2.030725208559798">getränt</gloss>
+                     <gloss n="2.030725208559798">herzogliche</gloss>
+                     <gloss n="2.030725208559798">kessler</gloss>
+                     <gloss n="2.030725208559798">unbeschreibliche</gloss>
+                     <gloss n="2.030725208559798">weggegangen</gloss>
                   </catDesc>
                </category>
                <category xml:id="t58">
@@ -3294,14 +3296,14 @@
                      <gloss n="3.030725208559798">vorhaben</gloss>
                      <gloss n="3.030725208559798">wozu</gloss>
                      <gloss n="3.030725208559798">gefühl</gloss>
-                     <gloss n="">entweihung</gloss>
-                     <gloss n="">isst</gloss>
-                     <gloss n="">erbrochen</gloss>
-                     <gloss n="">augensprache</gloss>
-                     <gloss n="">fröhlichen</gloss>
-                     <gloss n="">aufgefaßte</gloss>
-                     <gloss n="">dienstmädchen</gloss>
-                     <gloss n="">qualvollsten</gloss>
+                     <gloss n="2.030725208559798">entweihung</gloss>
+                     <gloss n="2.030725208559798">isst</gloss>
+                     <gloss n="2.030725208559798">erbrochen</gloss>
+                     <gloss n="2.030725208559798">augensprache</gloss>
+                     <gloss n="2.030725208559798">fröhlichen</gloss>
+                     <gloss n="2.030725208559798">aufgefaßte</gloss>
+                     <gloss n="2.030725208559798">dienstmädchen</gloss>
+                     <gloss n="2.030725208559798">qualvollsten</gloss>
                      <gloss n="2.030725208559798">versichre</gloss>
                      <gloss n="2.030725208559798">scheins</gloss>
                      <gloss n="2.030725208559798">begonnen</gloss>
@@ -3375,11 +3377,11 @@
                      <gloss n="2.030725208559798">natürliche</gloss>
                      <gloss n="2.030725208559798">gefragt</gloss>
                      <gloss n="2.030725208559798">fröhlich</gloss>
-                     <gloss n="">münzsorten</gloss>
-                     <gloss n="">zuschuß</gloss>
-                     <gloss n="">rückten</gloss>
-                     <gloss n="">verschwände</gloss>
-                     <gloss n="">höbe</gloss>
+                     <gloss n="1.0307252085597984">münzsorten</gloss>
+                     <gloss n="1.0307252085597984">zuschuß</gloss>
+                     <gloss n="1.0307252085597984">rückten</gloss>
+                     <gloss n="1.0307252085597984">verschwände</gloss>
+                     <gloss n="1.0307252085597984">höbe</gloss>
                   </catDesc>
                </category>
             </taxonomy>

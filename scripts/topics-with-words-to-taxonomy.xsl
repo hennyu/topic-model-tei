@@ -20,7 +20,7 @@
     <xsl:variable name="word-weights-file">../mallet-output/word-weights-reduced.csv</xsl:variable>
 
     <xsl:template match="/">
-        <xsl:result-document href="{'tm-taxonomy.xml'}">
+        <xsl:result-document href="{'../tei-examples/tm-taxonomy.xml'}">
             
         <TEI xmlns="http://www.tei-c.org/ns/1.0">
             <teiHeader>
