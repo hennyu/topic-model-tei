@@ -1,6 +1,6 @@
 # Topic Models in TEI
 
-This respository is a supplement to a presentation held at the 2022 TEI Conference in Newcastle on "How to Represent Topic Models in Digital Scholarly Editions" by Ulrike Henny-Krahmer and Frederike Neuber. Slides and abstract of the talk are available on [Zenodo](https://zenodo.org/record/7043204). The repository provides data and code that illustrate how topic models could be integrated into digital scholarly editions by transforming the results of a modeling with [Mallet](https://mallet.cs.umass.edu/diagnostics.php) to XML/TEI. 
+This respository is a supplement to a presentation held at the 2022 TEI Conference in Newcastle on "How to Represent Topic Models in Digital Scholarly Editions" by Ulrike Henny-Krahmer and Frederike Neuber. Slides and abstract of the talk are available on [Zenodo](https://doi.org/10.5281/zenodo.7043203). The repository provides data and code that illustrate how topic models could be integrated into digital scholarly editions by transforming the results of a modeling with [Mallet](https://mallet.cs.umass.edu/diagnostics.php) to XML/TEI. 
 
 # Content
 
